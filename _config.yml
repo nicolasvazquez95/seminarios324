@@ -1,12 +1,24 @@
+# Configuración general
 title: "Seminarios de la 324"
 description: "Todos los viernes a las 14:00 hs en el aula 324."
+lang: es
+author: "Oficina 324 - FAMAF"
+email: nicolasvazquez.vonbibow@unc.edu.ar
+
+# Tema
 theme: minima
 
-# Datos opcionales
-author: "Seminarios de la 324"
-email: seminarios324@ejemplo.com
-lang: es
+# Configuración de posts
+collections:
+  posts:
+    output: true
 
-# GitHub Pages config
+# Plugins
 plugins:
   - jekyll-feed
+
+# Configuración opcional para URL
+permalink: /:year/:month/:day/:title/
+
+# Configuración de GitHub Pages
+# No hace falta nada extra si usás la rama main o gh-pages
