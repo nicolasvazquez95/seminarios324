@@ -1,0 +1,12 @@
+title: "Seminarios de la 324"
+description: "Todos los viernes a las 14:00 hs en el aula 324."
+theme: minima
+
+# Datos opcionales
+author: "Seminarios de la 324"
+email: seminarios324@ejemplo.com
+lang: es
+
+# GitHub Pages config
+plugins:
+  - jekyll-feed
