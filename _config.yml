@@ -1,3 +1,5 @@
+# _config.yml
+
 # Configuración general
 title: "Seminarios de la 324"
 description: "Todos los viernes a las 14:00 hs en el aula 324."
@@ -20,5 +22,12 @@ plugins:
 # Configuración opcional para URL
 permalink: /:year/:month/:day/:title/
 
+################################################################
+# ¡AÑADIR ESTA SECCIÓN! 👇
+################################################################
 # Configuración de GitHub Pages
-# No hace falta nada extra si usás la rama main o gh-pages
+# URL principal del sitio
+url: "https://nicolasvazquez95.github.io"
+# Subdirectorio del sitio (el nombre de tu repositorio)
+baseurl: "/seminarios324"
+################################################################
