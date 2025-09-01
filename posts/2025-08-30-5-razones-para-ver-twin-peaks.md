@@ -10,3 +10,5 @@ Aula 324
 ![5razones]({{ '/posts/assets/5razones_twinpeaks.png' | relative_url }})
 
 Una disertación sobre porqué me obsesioné con la mítica serie de David Lynch y las razones por las que todos debemos verla por lo menos una vez en la vida.
+
+[Link a la presentación]({{ site.baseurl }}/posts/assets/slides/5razones_twinpeaks.pdf)
