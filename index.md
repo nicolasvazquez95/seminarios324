@@ -16,12 +16,12 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
 
 
 <div style="background:#f5f5f5; border-radius:12px; padding:1em; margin:1em 0;">
-  <h3><em>Título de seminario a confirmar</em></h3>
-  <p><strong>Orador:</strong> Jonatan Claros (IFEG-FAMAF)</p>
+  <h3><em>La historia de un guerrero: Isin Vidal</em></h3>
+  <p><strong>Orador:</strong> Jonathan Claros (IFEG-FAMAF)</p>
   <p>🗓️ <strong>Viernes 5 de septiembre, 14:00 hs</strong><br>
   📍 Of. 324 – FAMAF</p>
   <p><strong>Resumen:</strong><br>
-  
+  Esta es la historia de un militar que, cansado de tanta maldad, encontró un refugio. En su camino, se enfrentó a las potencias mundiales que dominaban la época, encontrando aliados en un grupo que compartía sus ideales. Así, pudo transmitir su sabiduría y eventualmente, asumir el liderazgo. Tras tres años intensos y decisivos, comprendió que su ciclo en esta vida difícil había llegado a su fin. Esta es la biografía de lSinVidal (2011-2014).
   </p>
 </div>
 
