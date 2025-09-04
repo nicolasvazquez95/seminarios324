@@ -34,4 +34,5 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
   📍 Of. 324 – FAMAF</p>
   <p><strong>Resumen:</strong><br>
   Una disertación sobre porqué me obsesioné con la mítica serie de David Lynch y las razones por las que todos debemos verla por lo menos una vez en la vida.</p>
+  <p><a href="{{ site.baseurl }}/posts/2025-08-30-5-razones-para-ver-twin-peaks.html }}">Ver más detalles</a></p>
 </div>
