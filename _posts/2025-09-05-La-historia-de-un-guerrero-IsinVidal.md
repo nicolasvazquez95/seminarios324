@@ -2,7 +2,7 @@
 layout: post
 title: "La historia de un guerrero: lSinVidal"
 author: "Jonathan Claros"
-date: 2025-08-30
+date: 2025-09-05 14:00:00
 ---
 **Viernes 05 de septiembre, 14:00 hs**
 Oficina 324
