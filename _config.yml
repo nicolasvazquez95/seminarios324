@@ -4,8 +4,9 @@
 title: "Seminarios de la 324"
 description: "Todos los viernes a las 14:00 hs en el aula 324. Querés dar un seminario? Contactanos!"
 lang: es
-author: "Oficina 324 - FAMAF"
-email: nicolasvazquez.vonbibow@unc.edu.ar
+author:
+  name: "Oficina 324 - FAMAF"
+  email: "nicolasvazquez.vonbibow@unc.edu.ar"
 
 # Tema
 theme: minima
@@ -31,3 +32,6 @@ url: "https://nicolasvazquez95.github.io"
 # Subdirectorio del sitio (el nombre de tu repositorio)
 baseurl: "/seminarios324"
 ################################################################
+
+# Opciones varias
+future: true
