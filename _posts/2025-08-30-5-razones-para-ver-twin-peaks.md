@@ -7,7 +7,7 @@ date: 2025-08-30
 **Viernes 30 de agosto, 14:00 hs**
 Aula 324
 
-![5razones]({{ '/assets/posts/5razones_twinpeaks.png' | relative_url }})
+![5razones]({{ '/assets/posts/front/5razones_twinpeaks.png' | relative_url }})
 
 Una disertación sobre porqué me obsesioné con la mítica serie de David Lynch y las razones por las que todos debemos verla por lo menos una vez en la vida.
 
