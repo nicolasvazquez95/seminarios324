@@ -10,7 +10,7 @@ list_title: "Artículos"
 Aquí vas a encontrar la información sobre el próximo seminario y un archivo de los seminarios anteriores.
 
 ## 📢 Próximo seminario
-
+<!-- Template (no me borres): -->
 <!-- <div style="background:#2c2c2c; border-left:5px solid #4fc3f7; border-radius:12px; padding:1.2em; margin:1.5em 0; color:#e0e0e0; font-family: sans-serif; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
   <h3><em style="color:#4fc3f7; font-size:1.5em;">Título de seminario a confirmar</em></h3>
   <p><strong>Orador:</strong> Paula Céspedes (IFEG-FAMAF)</p>
@@ -22,12 +22,12 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
 </div> -->
 
 <div style="background:#2c2c2c; border-left:5px solid #4fc3f7; border-radius:12px; padding:1.2em; margin:1.5em 0; color:#e0e0e0; font-family: sans-serif; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
-  <h3><em style="color:#4fc3f7; font-size:1.5em;">Título de seminario a confirmar</em></h3>
-  <p><strong>Orador:</strong> Paula Céspedes (IFEG-FAMAF)</p>
+  <h3><em style="color:#4fc3f7; font-size:1.5em;">De Argentina vs el Dream Team y nuestros grados de separación con Michael Jordan</em></h3>
+  <p><strong>Oradora:</strong> Paula Céspedes (IFEG-FAMAF)</p>
   <p>🗓️ <strong>Viernes 12 de septiembre, 14:00 hs</strong><br>
      📍 Of. 324 – FAMAF</p>
   <p><strong>Resumen:</strong><br>
-     Estén atentos a las novedades que se publicarán próximamente.
+     En este seminario recordaremos el mítico enfrentamiento de la Selección Argentina de Básquet vs el Dream Team de Estados Unidos en el Preolímpico de 1992 y charlaremos brevemente de lo que significó el Oro Olímpico de Argentina en Atenas 2004. Descubriremos también cuántos grados de separación o handshakes nos distancian de Michael Jordan y otras estrellas del básquet.
   </p>
 </div>
 
