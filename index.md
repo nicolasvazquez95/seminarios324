@@ -1,7 +1,7 @@
 ---
 layout: home
 title: ""
-list_title: "Artículos"
+list_title: "Reseñas de seminarios"
 ---
 <!-- Add an image from assets folder  -->
 
@@ -55,3 +55,14 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
 </div>
 
 Para ver el archivo completo de resúmenes, hacé click [aquí]({{ '/archivo/' | relative_url }}).
+
+## ✉️ Suscribite
+<div style="text-align: center; margin-top: 1.5em;">
+      <p>📩 Sumate a la lista de difusión para estar atento al próximo seminario</p>
+      <a href="https://forms.gle/rpGbTqEZgYM9etnn8" target="_blank" rel="noopener">
+        <img src="{{ '/assets/img/qr-form.jpeg' | relative_url }}" 
+             alt="QR para sumarte a la lista de difusión" 
+             style="max-width: 150px; border-radius: 8px;">
+      </a>
+      <p><small>Escaneá el código o tocá la imagen</small></p>
+    </div>
