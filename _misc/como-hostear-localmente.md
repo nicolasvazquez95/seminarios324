@@ -28,6 +28,14 @@ bundle -v
 jekyll -v
 ```
 
+_Posible error en Linux_
+
+Si al intentar instalar bundler y Jekyll aparece un error relacionado con la falta de algún header o librería, puede que sea necesario instalar las herramientas de desarrollo de Ruby. En Ubuntu, esto se puede hacer con el siguiente comando:
+
+```bash
+sudo apt-get install ruby-dev build-essential
+```
+
 2. Iniciar el servidor Jekyll:
 
 ```bash
