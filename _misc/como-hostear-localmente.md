@@ -45,6 +45,7 @@ bundle exec jekyll serve
 Esto iniciará un servidor local en `http://localhost:4000`, donde podrás ver tu sitio web.
 
 Si es la primera vez, puede que sea necesario ejecutar `bundle install` para instalar las dependencias del proyecto.
+Capaz aparece un pequeño error de permisos, en ese caso se puede intentar con `sudo bundle install`.
 
 ### Notas
 Si queremos que aparezcan posts con fechas futuras, podemos iniciar el servidor con la opción `--future`:
