@@ -1,7 +1,7 @@
 ---
 layout: home
 title: ""
-list_title: "Reseñas de seminarios"
+list_title: "Blog"
 ---
 <!-- Add an image from assets folder  -->
 
