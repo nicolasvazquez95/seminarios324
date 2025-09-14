@@ -64,7 +64,7 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
   </p>
 </div>
 
-Para ver el archivo completo de resúmenes, hacé click [aquí]({{ '/archivo/' | relative_url }}).
+***Para ver el archivo completo de resúmenes, hacé click [aquí]({{ '/archivo/' | relative_url }}).***
 
 ## ✉️ Suscribite
 <div style="text-align: center; margin-top: 1.5em;">
