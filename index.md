@@ -4,6 +4,8 @@ title: ""
 list_title: "Blog"
 ---
 <!-- Add an image from assets folder  -->
+<input type="text" id="search-input" placeholder="Buscar seminarios...">
+<ul id="results-container"></ul>
 
 ![Flyer1]({{ '/assets/flyer1.png' | relative_url }})
 
