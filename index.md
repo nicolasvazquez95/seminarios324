@@ -78,3 +78,17 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
       </a>
       <p><small>Escaneá el código o tocá la imagen</small></p>
     </div>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js"></script>
+  <script>
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: '{{ "/search.json" | relative_url }}',
+      searchResultTemplate: '<li><a href="{url}">{title}</a><br><small>{date}</small><br>{content}</li>',
+      noResultsText: 'No se encontraron resultados',
+      limit: 10,
+      fuzzy: false,
+    })
+  </script>
