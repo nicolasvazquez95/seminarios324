@@ -4,7 +4,9 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.minima.nav_pages | default: default_paths -%}
     {%- assign page_titles = site.pages | map: 'title' | compact %}
+
     <!-- <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a> -->
+    
     <a class="site-title" rel="author" href="{{ '/' | relative_url }}" style="display:flex; align-items:center; gap:0.5em;">
       <img src="{{ '/assets/img/favicon-dark.ico' | relative_url }}" alt="Seminarios 324 logo icon, simple and professional, next to the site title text Seminarios 324, displayed in the website header navigation area" style="height:1.2em; width:auto;">
       {{ site.title | escape }}
@@ -21,4 +23,5 @@
       </nav>
     {%- endunless %}
   </div>
+
 </header>

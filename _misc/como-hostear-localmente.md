@@ -39,6 +39,7 @@ sudo apt-get install ruby-dev build-essential
 2. Iniciar el servidor Jekyll:
 
 ```bash
+cd ~/github_repositories/seminarios324
 bundle exec jekyll serve
 ```
 
