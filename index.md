@@ -92,3 +92,121 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
       fuzzy: false,
     })
   </script>
+
+
+  <!-- probando light and dark mode -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Page with Dark/Light Toggle</title>
+    <style>
+        :root {
+            --bg-color: #ffffff;
+            --text-color: #333333;
+            --header-bg: #f5f5f5;
+        }
+
+        [data-theme="dark"] {
+            --bg-color: #1a1a1a;
+            --text-color: #f0f0f0;
+            --header-bg: #2d2d2d;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+
+        header {
+            background-color: var(--header-bg);
+            padding: 1rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .theme-toggle {
+            background: none;
+            border: none;
+            cursor: pointer;
+            font-size: 1.5rem;
+            padding: 0.5rem;
+            border-radius: 50%;
+            width: 2.5rem;
+            height: 2.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+
+        /* Additional styling for content */
+        h1, h2, h3 {
+            color: var(--text-color);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>My GitHub Page</h1>
+        <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark/light mode">
+            🌙
+        </button>
+    </header>
+    
+    <div class="container">
+        <h2>Welcome to My Page</h2>
+        <p>This is an example GitHub page with a dark/light mode toggle button.</p>
+        <p>Click the button in the top right to switch between themes!</p>
+    </div>
+
+    <script>
+        const toggleButton = document.getElementById('theme-toggle');
+        const prefersDarkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+        
+        // Check for saved theme preference or use system preference
+        const currentTheme = localStorage.getItem('theme') || 
+                            (prefersDarkScheme.matches ? 'dark' : 'light');
+        
+        // Set initial theme
+        if (currentTheme === 'dark') {
+            document.body.setAttribute('data-theme', 'dark');
+            toggleButton.textContent = '☀️';
+        } else {
+            document.body.removeAttribute('data-theme');
+            toggleButton.textContent = '🌙';
+        }
+        
+        // Toggle theme when button is clicked
+        toggleButton.addEventListener('click', () => {
+            let theme = 'light';
+            if (!document.body.getAttribute('data-theme')) {
+                theme = 'dark';
+                document.body.setAttribute('data-theme', 'dark');
+                toggleButton.textContent = '☀️';
+            } else {
+                document.body.removeAttribute('data-theme');
+                toggleButton.textContent = '🌙';
+            }
+            localStorage.setItem('theme', theme);
+        });
+    </script>
+</body>
+</html>
