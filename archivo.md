@@ -6,6 +6,24 @@ title: "Archivo"
 ---
 
 <div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family: sans-serif;">
+  <h3><em style="color:#4fc3f7;">El Fin de una Era: John Cena y su Tour de Despedida 2025</em></h3>
+  <p><strong>Orador:</strong> Diego Reyes (CIEM-FAMAF)</p>
+  <p>🗓️ <strong>Viernes 19 de septiembre, 14:30 hs</strong><br>
+     📍 Of. 324 – FAMAF</p>
+  <p><strong>Resumen:</strong><br>
+    En julio de 2024, John Cena anunció su retiro de la lucha libre profesional para 2025. En esta charla analizaremos el legado de una de las figuras más icónicas de WWE, quien durante más de dos décadas marcó una era completa del entretenimiento deportivo.
+    Exploraremos su tour de despedida y cómo sus 17 campeonatos mundiales, su transición a Hollywood y su impacto cultural trascienden la lucha libre.
+  </p>
+    <p style="margin-top:1em; font-weight:bold; text-align:right;">
+    Ver la nota completa 
+    <a href="{{ '/2025/09/19/El-Fin-de-una-Era-John-Cena/' | relative_url }}" style="color:#4fc3f7; text-decoration:none;">
+      aquí
+    </a>
+  </p>
+</div>
+
+
+<div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family: sans-serif;">
   <h3><em style="color:#4fc3f7;">De Argentina vs. el Dream Team y nuestros grados de separación con Michael Jordan</em></h3>
   <p><strong>Orador:</strong> Paula Céspedes (IFEG-FAMAF)</p>
   <p>🗓️ <strong>Viernes 12 de septiembre, 14:00 hs</strong><br>
