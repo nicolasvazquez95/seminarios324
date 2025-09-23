@@ -3,10 +3,6 @@ layout: home
 title: ""
 list_title: "Blog"
 ---
-<!-- Add an image from assets folder  -->
-<!-- <input type="text" id="search-input" placeholder="Buscar seminarios...">
-<ul id="results-container"></ul> -->
-
 ![Flyer1]({{ '/assets/flyer1.png' | relative_url }})
 
 Aquí vas a encontrar la información sobre el próximo seminario y un archivo de los seminarios anteriores.
@@ -79,51 +75,3 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
       </a>
       <p><small>Escaneá el código o tocá la imagen</small></p>
     </div>
-
-
-  <script src="https://cdn.jsdelivr.net/npm/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js"></script>
-  <script>
-    SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('results-container'),
-      json: '{{ "/search.json" | relative_url }}',
-      searchResultTemplate: '<li><a href="{url}">{title}</a><br><small>{date}</small><br>{content}</li>',
-      noResultsText: 'No se encontraron resultados',
-      limit: 10,
-      fuzzy: false,
-    })
-  </script>
-
-<!-- # dark and light mode toggle button -->
-
-  <script>
-        const toggleButton = document.getElementById('theme-toggle');
-        const prefersDarkScheme = window.matchMedia('(prefers-color-scheme: dark)');
-        
-        // Check for saved theme preference or use system preference
-        const currentTheme = localStorage.getItem('theme') || 
-                            (prefersDarkScheme.matches ? 'dark' : 'light');
-        
-        // Set initial theme
-        if (currentTheme === 'dark') {
-            document.body.setAttribute('data-theme', 'dark');
-            toggleButton.textContent = '☀️';
-        } else {
-            document.body.removeAttribute('data-theme');
-            toggleButton.textContent = '🌙';
-        }
-        
-        // Toggle theme when button is clicked
-        toggleButton.addEventListener('click', () => {
-            let theme = 'light';
-            if (!document.body.getAttribute('data-theme')) {
-                theme = 'dark';
-                document.body.setAttribute('data-theme', 'dark');
-                toggleButton.textContent = '☀️';
-            } else {
-                document.body.removeAttribute('data-theme');
-                toggleButton.textContent = '🌙';
-            }
-            localStorage.setItem('theme', theme);
-        });
-    </script>
