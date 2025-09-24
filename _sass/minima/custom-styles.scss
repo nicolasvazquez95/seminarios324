@@ -9,3 +9,15 @@
   border-top: 1px solid $border-color-01;
   border-bottom: 1px solid $border-color-01;
 }
+
+/* Estilo normal de los títulos con link */
+.seminario-link {
+  color: #4fc3f7;        /* azulito */
+  text-decoration: none; /* sin subrayado por defecto */
+  font-style: italic; /* en cursiva */
+}
+
+/* Estilo cuando el mouse pasa por arriba */
+.seminario-link:hover {
+  text-decoration: underline; /* se subraya al hacer hover */
+}

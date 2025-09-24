@@ -43,25 +43,38 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
 </div> -->
 
 <div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family: sans-serif;">
-  <h3><em style="color:#4fc3f7;">El Fin de una Era: John Cena y su Tour de Despedida 2025</em></h3>
+  <h3 style="margin-top:0;">
+    <a class="seminario-link"
+       href="{{ '/2025/09/19/El-Fin-de-una-Era-John-Cena/' | relative_url }}">
+      El Fin de una Era: John Cena y su Tour de Despedida 2025
+    </a>
+  </h3>
+
   <p><strong>Orador:</strong> Diego Reyes (CIEM-FAMAF)</p>
   <p>🗓️ <strong>Viernes 19 de septiembre, 14:30 hs</strong><br>
      📍 Of. 324 – FAMAF</p>
   <p><strong>Resumen:</strong><br>
     En julio de 2024, John Cena anunció su retiro de la lucha libre profesional para 2025. En esta charla analizaremos el legado de una de las figuras más icónicas de WWE, quien durante más de dos décadas marcó una era completa del entretenimiento deportivo.
-    Exploraremos su tour de despedida y cómo sus 17 campeonatos mundiales, su transición a Hollywood y su impacto cultural trascienden la lucha libre.
+    Exploraremos su tour de despedida y cómo sus 17 campeonatos mundiales, su transición a Hollywood y su impacto cultural trascienden la lucha libre.
   </p>
 </div>
 
 <div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family: sans-serif;">
-  <h3><em style="color:#4fc3f7;">De Argentina vs el Dream Team y nuestros grados de separación con Michael Jordan</em></h3>
+  <h3 style="margin-top:0;">
+    <a class="seminario-link"
+       href="{{ '/2025/09/12/De-Argentina-vs-el-Dream-Team/' | relative_url }}">
+      <em>De Argentina vs el Dream Team y nuestros grados de separación con Michael Jordan</em>
+    </a>
+  </h3>
+
   <p><strong>Oradora:</strong> Paula Céspedes (IFEG-FAMAF)</p>
   <p>🗓️ <strong>Viernes 12 de septiembre, 14 hs</strong><br>
      📍 Of. 324 – FAMAF</p>
   <p><strong>Resumen:</strong><br>
-     En este seminario recordaremos el mítico enfrentamiento de la Selección Argentina de Básquet vs el Dream Team de Estados Unidos en el Preolímpico de 1992 y charlaremos brevemente de lo que significó el Oro Olímpico de Argentina en Atenas 2004. Descubriremos también cuántos grados de separación o handshakes nos distancian de Michael Jordan y otras estrellas del básquet.
+     En este seminario recordaremos el mítico enfrentamiento de la Selección Argentina de Básquet vs el Dream Team de Estados Unidos en el Preolímpico de 1992 y charlaremos brevemente de lo que significó el Oro Olímpico de Argentina en Atenas 2004. Descubriremos también cuántos grados de separación o handshakes nos distancian de Michael Jordan y otras estrellas del básquet.
   </p>
 </div>
+
 
 ***Para ver el archivo completo de resúmenes, hacé click [aquí]({{ '/archivo/' | relative_url }}).***
 
