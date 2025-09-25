@@ -20,25 +20,32 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
 </div> -->
 
 <div style="background:#2c2c2c; border-left:5px solid #4fc3f7; border-radius:12px; padding:1.2em; margin:1.5em 0; color:#e0e0e0; font-family: sans-serif; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
-  <h3><em style="color:#4fc3f7; font-size:1.5em;">Título de seminario a confirmar</em></h3>
+  <h3><em style="color:#4fc3f7; font-size:1.5em;">Imitar la forma y el proceso natural</em></h3>
   <p><strong>Orador:</strong> Martín Mendez (IFEG-FAMAF)</p>
   <p>🗓️ <strong>Viernes 26 de septiembre, 14:00 hs</strong><br>
-     📍 Of. 324 – FAMAF</p>
+     📍 Aula 32 – FAMAF</p>
   <p><strong>Resumen:</strong><br>
-     Estén atentos a las novedades que se publicarán próximamente. Posiblemente mudaremos los seminarios a otra locación. 
+     Me fascina cómo lo más complejo suele tener una explicación sencilla y elegante. Y la naturaleza es experta en eso. En esta charla, les muestro unos ejemplos que me vuelan la cabeza: algoritmos en ranas, materiales en arañas... No es biología, es buena física. Quizás, la próxima gran idea no esté en un paper, sino en observar el mundo con nuevos ojos.
   </p>
 </div>
 
 
 ## 📂 Resúmenes de seminarios anteriores
-<!-- Template (no me borres) -->
+<!-- Template -->
 <!-- <div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family: sans-serif;">
-  <h3><em style="color:#4fc3f7;">Título del seminario</em></h3>
-  <p><strong>Orador:</strong> Nombre del orador (Grupo-Instituto)</p>
-  <p>🗓️ <strong>Fecha, Hora</strong><br>
+  <h3 style="margin-top:0;">
+    <a class="seminario-link"
+       href="{{ '/2025/09/19/El-Fin-de-una-Era-John-Cena/' | relative_url }}">
+      El Fin de una Era: John Cena y su Tour de Despedida 2025
+    </a>
+  </h3>
+
+  <p><strong>Orador:</strong> Diego Reyes (CIEM-FAMAF)</p>
+  <p>🗓️ <strong>Viernes 19 de septiembre, 14:30 hs</strong><br>
      📍 Of. 324 – FAMAF</p>
   <p><strong>Resumen:</strong><br>
-    Aquí va el resumen del seminario.
+    En julio de 2024, John Cena anunció su retiro de la lucha libre profesional para 2025. En esta charla analizaremos el legado de una de las figuras más icónicas de WWE, quien durante más de dos décadas marcó una era completa del entretenimiento deportivo.
+    Exploraremos su tour de despedida y cómo sus 17 campeonatos mundiales, su transición a Hollywood y su impacto cultural trascienden la lucha libre.
   </p>
 </div> -->
 
