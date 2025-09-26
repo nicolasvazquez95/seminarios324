@@ -5,6 +5,23 @@ title: "Archivo"
 # date: 2025-08-30
 ---
 
+<div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family: sans-serif;">
+  <h3 style="margin-top:0;">
+    <a class="seminario-link"
+       href="{{ '/2025/09/26/Imitar-la-forma-y-el-proceso-natural/' | relative_url }}">
+      Imitar la forma y el proceso natural
+    </a>
+  </h3>
+
+  <p><strong>Orador:</strong> Martín Mendez (IFEG-FAMAF)</p>
+  <p>🗓️ <strong>Viernes 26 de septiembre, 14:00 hs</strong><br>
+     📍 Of. 324 – FAMAF</p>
+  <p><strong>Resumen:</strong><br>
+    Me fascina cómo lo más complejo suele tener una explicación sencilla y elegante. Y la naturaleza es experta en eso. En esta charla, les muestro unos ejemplos que me vuelan la cabeza: algoritmos en ranas, materiales en arañas... No es biología, es buena física. Quizás, la próxima gran idea no esté en un paper, sino en observar el mundo con nuevos ojos.
+  </p>
+</div>
+
+
 <div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family:sans-serif;">
   <h3 style="margin-top:0;">
     <a class="seminario-link"
