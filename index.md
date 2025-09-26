@@ -20,12 +20,12 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
 </div> -->
 
 <div style="background:#2c2c2c; border-left:5px solid #4fc3f7; border-radius:12px; padding:1.2em; margin:1.5em 0; color:#e0e0e0; font-family: sans-serif; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
-  <h3><em style="color:#4fc3f7; font-size:1.5em;">Imitar la forma y el proceso natural</em></h3>
-  <p><strong>Orador:</strong> Martín Mendez (IFEG-FAMAF)</p>
-  <p>🗓️ <strong>Viernes 26 de septiembre, 14:00 hs</strong><br>
-     📍 Aula 32 – FAMAF</p>
+  <h3><em style="color:#4fc3f7; font-size:1.5em;">Título de seminario a confirmar</em></h3>
+  <p><strong>Orador:</strong> Claudio Armas (CIEM-FAMAF)</p>
+  <p>🗓️ <strong>Viernes 03 de octubre, 14:00 hs</strong><br>
+     📍 Lugar a confirmar</p>
   <p><strong>Resumen:</strong><br>
-     Me fascina cómo lo más complejo suele tener una explicación sencilla y elegante. Y la naturaleza es experta en eso. En esta charla, les muestro unos ejemplos que me vuelan la cabeza: algoritmos en ranas, materiales en arañas... No es biología, es buena física. Quizás, la próxima gran idea no esté en un paper, sino en observar el mundo con nuevos ojos.
+      Estén atentos a las novedades que se publicarán próximamente.
   </p>
 </div>
 
@@ -48,6 +48,22 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
     Exploraremos su tour de despedida y cómo sus 17 campeonatos mundiales, su transición a Hollywood y su impacto cultural trascienden la lucha libre.
   </p>
 </div> -->
+
+<div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family: sans-serif;">
+  <h3 style="margin-top:0;">
+    <a class="seminario-link"
+       href="{{ '/2025/09/26/Imitar-la-forma-y-el-proceso-natural/' | relative_url }}">
+      Imitar la forma y el proceso natural
+    </a>
+  </h3>
+
+  <p><strong>Orador:</strong> Martín Mendez (IFEG-FAMAF)</p>
+  <p>🗓️ <strong>Viernes 26 de septiembre, 14:00 hs</strong><br>
+     📍 Of. 324 – FAMAF</p>
+  <p><strong>Resumen:</strong><br>
+    Me fascina cómo lo más complejo suele tener una explicación sencilla y elegante. Y la naturaleza es experta en eso. En esta charla, les muestro unos ejemplos que me vuelan la cabeza: algoritmos en ranas, materiales en arañas... No es biología, es buena física. Quizás, la próxima gran idea no esté en un paper, sino en observar el mundo con nuevos ojos.
+  </p>
+</div>
 
 <div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family: sans-serif;">
   <h3 style="margin-top:0;">
