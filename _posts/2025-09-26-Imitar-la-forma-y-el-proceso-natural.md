@@ -8,7 +8,7 @@ date: 2025-09-26 14:00:00
 
 Aula 32 - FAMAF
 
-![lsinvidal]({{ '/assets/posts/front/Retiro_John_Cena.png' | relative_url }})
+![lsinvidal]({{ '/assets/posts/front/Imitar_la_forma.png' | relative_url }})
 
 Me fascina cómo lo más complejo suele tener una explicación sencilla y elegante. Y la naturaleza es experta en eso. En esta charla, les muestro unos ejemplos que me vuelan la cabeza: algoritmos en ranas, materiales en arañas... No es biología, es buena física. Quizás, la próxima gran idea no esté en un paper, sino en observar el mundo con nuevos ojos.
 
