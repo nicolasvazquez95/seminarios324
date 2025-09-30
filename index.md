@@ -21,7 +21,7 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
 
 <div style="background:#2c2c2c; border-left:5px solid #15ff5bff; border-radius:12px; padding:1.2em; margin:1.5em 0; color:#e0e0e0; font-family: sans-serif; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
   <h3><em style="color:#4fc3f7; font-size:1.5em;">Seminario invitado a confirmar</em></h3>
-  <p><strong>Oradores:</strong> María Emilia Echeveste, Bruno Ruffa (CIEM-FAMAF)</p>
+  <p><strong>Oradores:</strong> María Emilia Echeveste, Bruno Buffa (CIEM-FAMAF)</p>
   <p>🗓️ <strong>Viernes 03 de octubre, 14:00 hs</strong><br>
      📍 Lugar a confirmar</p>
   <p><strong>Resumen:</strong><br>
