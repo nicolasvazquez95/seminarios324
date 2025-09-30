@@ -20,15 +20,21 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
 </div> -->
 
 <div style="background:#2c2c2c; border-left:5px solid #15ff5bff; border-radius:12px; padding:1.2em; margin:1.5em 0; color:#e0e0e0; font-family: sans-serif; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
-  <h3><em style="color:#4fc3f7; font-size:1.5em;">Seminario invitado a confirmar</em></h3>
+  <h3><em style="color:#4fc3f7; font-size:1.5em;">Historias (In)necesarias de la 324</em></h3>
   <p><strong>Oradores:</strong> María Emilia Echeveste, Bruno Buffa (CIEM-FAMAF)</p>
+  <div style="display: flex; justify-content: center;">
+    <img src="{{ '/assets/shorts/03-10-2025.jpg' | relative_url }}" alt="Seminario Invitado" style="max-width:50%; border-radius:8px; margin:1em 0;">
+  </div>
   <p>🗓️ <strong>Viernes 03 de octubre, 14:00 hs</strong><br>
      📍 Lugar a confirmar</p>
   <p><strong>Resumen:</strong><br>
-      Estén atentos a las novedades que se publicarán próximamente.
+      Esta jornada propone recuperar la relevancia de la historización de los procesos de aprendizaje como dimensión clave para comprender la educación en toda su complejidad. La historia de la educación nos muestra que las formas de enseñar y aprender no son estáticas ni naturales, sino construcciones sociales y culturales que se transforman en relación con los diferentes contextos políticos, económicos y culturales, pero por sobre todo NOS TRANSFORMAN como personas. Hay un antes y un después de haber pasado por la 324.
+
+      Inspirados en la perspectiva vigotskiana y por ende constructivista, entendemos que el aprendizaje es un proceso social, mediado por el lenguaje, las herramientas culturales y las interacciones con otros. En este sentido, el sujeto aprende siempre en relación con la comunidad a la que pertenece, en este caso la 324, inscribiendo su experiencia en una trama histórica colectiva.
+
+      La jornada invita a reflexionar sobre historias de grandes integrantes del espacio que ahora ocupan uds. Los procesos educativos actuales se inscriben en una continuidad histórica, reconocer esa historicidad nos permite pensar nuestras prácticas educativas (y algunas no tanto) y  abrir caminos a los que vendrán detrás de uds a habitar la gloriosa 324.
   </p>
 </div>
-
 
 ## 📂 Resúmenes de seminarios anteriores
 <!-- Template -->
