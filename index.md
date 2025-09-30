@@ -30,9 +30,9 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
      📍 Lugar a confirmar</p>
   <p><strong>Resumen:</strong><br>
       Esta jornada propone recuperar la relevancia de la historización de los procesos de aprendizaje como dimensión clave para comprender la educación en toda su complejidad. La historia de la educación nos muestra que las formas de enseñar y aprender no son estáticas ni naturales, sino construcciones sociales y culturales que se transforman en relación con los diferentes contextos políticos, económicos y culturales, pero por sobre todo NOS TRANSFORMAN como personas. Hay un antes y un después de haber pasado por la 324.
-
+      <br>
       Inspirados en la perspectiva vigotskiana y por ende constructivista, entendemos que el aprendizaje es un proceso social, mediado por el lenguaje, las herramientas culturales y las interacciones con otros. En este sentido, el sujeto aprende siempre en relación con la comunidad a la que pertenece, en este caso la 324, inscribiendo su experiencia en una trama histórica colectiva.
-
+      <br>
       La jornada invita a reflexionar sobre historias de grandes integrantes del espacio que ahora ocupan uds. Los procesos educativos actuales se inscriben en una continuidad histórica, reconocer esa historicidad nos permite pensar nuestras prácticas educativas (y algunas no tanto) y  abrir caminos a los que vendrán detrás de uds a habitar la gloriosa 324.
   </p>
 </div>
