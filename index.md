@@ -9,6 +9,7 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
 
 ## 📢 Próximo seminario
 <!-- Template (no me borres): -->
+<!-- Color seminario invitado: #15ff5bff -->
 <!-- <div style="background:#2c2c2c; border-left:5px solid #4fc3f7; border-radius:12px; padding:1.2em; margin:1.5em 0; color:#e0e0e0; font-family: sans-serif; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
   <h3><em style="color:#4fc3f7; font-size:1.5em;">Título de seminario a confirmar</em></h3>
   <p><strong>Orador:</strong> Paula Céspedes (IFEG-FAMAF)</p>
