@@ -27,7 +27,7 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
     <img src="{{ '/assets/shorts/03-10-2025.jpg' | relative_url }}" alt="Seminario Invitado" style="max-width:50%; border-radius:8px; margin:1em 0;">
   </div>
   <p>🗓️ <strong>Viernes 03 de octubre, 14:00 hs</strong><br>
-     📍 Lugar a confirmar</p>
+     📍 Oficina 324 - FAMAF</p>
   <p><strong>Resumen:</strong><br>
       Esta jornada propone recuperar la relevancia de la historización de los procesos de aprendizaje como dimensión clave para comprender la educación en toda su complejidad. La historia de la educación nos muestra que las formas de enseñar y aprender no son estáticas ni naturales, sino construcciones sociales y culturales que se transforman en relación con los diferentes contextos políticos, económicos y culturales, pero por sobre todo NOS TRANSFORMAN como personas. Hay un antes y un después de haber pasado por la 324.
       <br>
