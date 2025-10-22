@@ -6,6 +6,23 @@ title: "Archivo"
 ---
 
 <div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family: sans-serif;">
+  <h3 style="margin-top:0;">
+    <a class="seminario-link"
+       href="{{ '/2025/10/18/De-la-cancha-al-carnaval/' | relative_url }}">
+      De la cancha al carnaval
+    </a>
+  </h3>
+
+  <p><strong>Orador:</strong> Gonzalo Angaut (IFEG-FAMAF)</p>
+  <p>🗓️ <strong>Viernes 10 de octubre, 14:00 hs</strong><br>
+     📍 Of. 324 – FAMAF</p>
+  <p><strong>Resumen:</strong><br>
+    Brasil no solo es la selección con más mundiales, sino también la cuna del jogo bonito. Pero fuera de la cancha, sus ídolos se destacan por su vida de excesos y fiestas. Desde los cumpleaños de la hermana de Neymar hasta las infinitas anécdotas de Ronaldinho y compañía, nos adentraremos en un mundo donde el éxito deportivo y el espíritu de carnaval parecen ir de la mano.
+  </p>
+</div>
+
+
+<div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family: sans-serif;">
   <h3 style="margin-top:0; color:#4fc3f7; font-style:italic;">
     Seminario invitado: Historias (In)necesarias de la 324
   </h3>

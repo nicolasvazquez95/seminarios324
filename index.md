@@ -21,12 +21,12 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
 </div> -->
 
 <div style="background:#2c2c2c; border-left:5px solid #4fc3f7; border-radius:12px; padding:1.2em; margin:1.5em 0; color:#e0e0e0; font-family: sans-serif; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
-  <h3><em style="color:#4fc3f7; font-size:1.5em;">De la cancha al carnaval</em></h3>
-  <p><strong>Orador:</strong> Gonzalo Angaut (IFEG-FAMAF)</p>
-  <p>🗓️ <strong>Viernes 17 de octubre, 14:00 hs</strong><br>
+  <h3><em style="color:#4fc3f7; font-size:1.5em;">Título de seminario a confirmar</em></h3>
+  <p><strong>Orador:</strong> Claudio Armas (CIEM-FAMAF)</p>
+  <p>🗓️ <strong>Viernes 24 de octubre, 14:00 hs</strong><br>
      📍 Of. 324 – FAMAF</p>
   <p><strong>Resumen:</strong><br>
-     Brasil no solo es la selección con más mundiales, sino también la cuna del jogo bonito. Pero fuera de la cancha, sus ídolos se destacan por su vida de excesos y fiestas. Desde los cumpleaños de la hermana de Neymar hasta las infinitas anécdotas de Ronaldinho y compañía, nos adentraremos en un mundo donde el éxito deportivo y el espíritu de carnaval parecen ir de la mano.
+      Estén atentos a las novedades que se publicarán próximamente.
   </p>
 </div>
 
@@ -50,6 +50,22 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
 </div> -->
 
 <div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family: sans-serif;">
+  <h3 style="margin-top:0;">
+    <a class="seminario-link"
+       href="{{ '/2025/10/18/De-la-cancha-al-carnaval/' | relative_url }}">
+      De la cancha al carnaval
+    </a>
+  </h3>
+
+  <p><strong>Orador:</strong> Gonzalo Angaut (IFEG-FAMAF)</p>
+  <p>🗓️ <strong>Viernes 10 de octubre, 14:00 hs</strong><br>
+     📍 Of. 324 – FAMAF</p>
+  <p><strong>Resumen:</strong><br>
+    Brasil no solo es la selección con más mundiales, sino también la cuna del jogo bonito. Pero fuera de la cancha, sus ídolos se destacan por su vida de excesos y fiestas. Desde los cumpleaños de la hermana de Neymar hasta las infinitas anécdotas de Ronaldinho y compañía, nos adentraremos en un mundo donde el éxito deportivo y el espíritu de carnaval parecen ir de la mano.
+  </p>
+</div>
+
+<div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family: sans-serif;">
   <h3 style="margin-top:0; color:#4fc3f7; font-style:italic;">
     Seminario invitado: Historias (In)necesarias de la 324
   </h3>
@@ -63,22 +79,6 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
       Inspirados en la perspectiva vigotskiana y por ende constructivista, entendemos que el aprendizaje es un proceso social, mediado por el lenguaje, las herramientas culturales y las interacciones con otros. En este sentido, el sujeto aprende siempre en relación con la comunidad a la que pertenece, en este caso la 324, inscribiendo su experiencia en una trama histórica colectiva.
       <br>
       La jornada invita a reflexionar sobre historias de grandes integrantes del espacio que ahora ocupan uds. Los procesos educativos actuales se inscriben en una continuidad histórica, reconocer esa historicidad nos permite pensar nuestras prácticas educativas (y algunas no tanto) y  abrir caminos a los que vendrán detrás de uds a habitar la gloriosa 324.
-  </p>
-</div>
-
-<div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family: sans-serif;">
-  <h3 style="margin-top:0;">
-    <a class="seminario-link"
-       href="{{ '/2025/09/26/Imitar-la-forma-y-el-proceso-natural/' | relative_url }}">
-      Imitar la forma y el proceso natural
-    </a>
-  </h3>
-
-  <p><strong>Orador:</strong> Martín Mendez (IFEG-FAMAF)</p>
-  <p>🗓️ <strong>Viernes 26 de septiembre, 14:00 hs</strong><br>
-     📍 Of. 324 – FAMAF</p>
-  <p><strong>Resumen:</strong><br>
-    Me fascina cómo lo más complejo suele tener una explicación sencilla y elegante. Y la naturaleza es experta en eso. En esta charla, les muestro unos ejemplos que me vuelan la cabeza: algoritmos en ranas, materiales en arañas... No es biología, es buena física. Quizás, la próxima gran idea no esté en un paper, sino en observar el mundo con nuevos ojos.
   </p>
 </div>
 
