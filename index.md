@@ -21,12 +21,12 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
 </div> -->
 
 <div style="background:#2c2c2c; border-left:5px solid #4fc3f7; border-radius:12px; padding:1.2em; margin:1.5em 0; color:#e0e0e0; font-family: sans-serif; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
-  <h3><em style="color:#4fc3f7; font-size:1.5em;">Título de seminario a confirmar</em></h3>
+  <h3><em style="color:#4fc3f7; font-size:1.5em;">Ciencia y Arte: La historia de la creación con gran trascendencia social y cultural</em></h3>
   <p><strong>Orador:</strong> Claudio Armas (CIEM-FAMAF)</p>
   <p>🗓️ <strong>Viernes 24 de octubre, 14:00 hs</strong><br>
      📍 Of. 324 – FAMAF</p>
   <p><strong>Resumen:</strong><br>
-      Estén atentos a las novedades que se publicarán próximamente.
+      En esta charla, vamos a explorar eventos históricos cruciales que moldearon una de las mejores creaciones de la humanidad. Toda gran obra tuvo sus pros y contras: desde desapariciones, una carrera de experimentos científicos, robos de propiedad intelectual, y hasta una guerra por derechos de autor. Sin embargo, también hubo quienes entregaron alma y cuerpo para que hoy podamos disfrutar de la combinación que nos entrega la ciencia y el arte.
   </p>
 </div>
 
