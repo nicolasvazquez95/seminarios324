@@ -21,14 +21,15 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
 </div> -->
 
 <div style="background:#2c2c2c; border-left:5px solid #4fc3f7; border-radius:12px; padding:1.2em; margin:1.5em 0; color:#e0e0e0; font-family: sans-serif; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
-  <h3><em style="color:#4fc3f7; font-size:1.5em;">Ciencia y Arte: La historia de la creación con gran trascendencia social y cultural</em></h3>
-  <p><strong>Orador:</strong> Claudio Armas (CIEM-FAMAF)</p>
-  <p>🗓️ <strong>Viernes 24 de octubre, 14:00 hs</strong><br>
+  <h3><em style="color:#4fc3f7; font-size:1.5em;">Título de seminario a confirmar</em></h3>
+  <p><strong>Orador:</strong> Gastón Briozzo (IFEG-FAMAF)</p>
+  <p>🗓️ <strong>Viernes 31 de octubre, 14:00 hs</strong><br>
      📍 Of. 324 – FAMAF</p>
   <p><strong>Resumen:</strong><br>
-      En esta charla, vamos a explorar eventos históricos cruciales que moldearon una de las mejores creaciones de la humanidad. Toda gran obra tuvo sus pros y contras: desde desapariciones, una carrera de experimentos científicos, robos de propiedad intelectual, y hasta una guerra por derechos de autor. Sin embargo, también hubo quienes entregaron alma y cuerpo para que hoy podamos disfrutar de la combinación que nos entrega la ciencia y el arte.
+     Estén atentos a las novedades que se publicarán próximamente.
   </p>
 </div>
+
 
 ## 📂 Resúmenes de seminarios anteriores
 <!-- Template -->
@@ -52,6 +53,22 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
 <div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family: sans-serif;">
   <h3 style="margin-top:0;">
     <a class="seminario-link"
+       href="{{ '/2025/10/24/ciencia-y-arte/' | relative_url }}">
+      Ciencia y Arte: La historia de la creación con gran trascendencia social y cultural
+    </a>
+  </h3>
+
+  <p><strong>Orador:</strong> Claudio Armas (CIEM-FAMAF)</p>
+  <p>🗓️ <strong>Viernes 24 de octubre, 14:00 hs</strong><br>
+     📍 Of. 324 – FAMAF</p>
+  <p><strong>Resumen:</strong><br>
+    En esta charla, vamos a explorar eventos históricos cruciales que moldearon una de las mejores creaciones de la humanidad. Toda gran obra tuvo sus pros y contras: desde desapariciones, una carrera de experimentos científicos, robos de propiedad intelectual, y hasta una guerra por derechos de autor. Sin embargo, también hubo quienes entregaron alma y cuerpo para que hoy podamos disfrutar de la combinación que nos entrega la ciencia y el arte.
+  </p>
+</div>
+
+<div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family: sans-serif;">
+  <h3 style="margin-top:0;">
+    <a class="seminario-link"
        href="{{ '/2025/10/18/De-la-cancha-al-carnaval/' | relative_url }}">
       De la cancha al carnaval
     </a>
@@ -62,23 +79,6 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
      📍 Of. 324 – FAMAF</p>
   <p><strong>Resumen:</strong><br>
     Brasil no solo es la selección con más mundiales, sino también la cuna del jogo bonito. Pero fuera de la cancha, sus ídolos se destacan por su vida de excesos y fiestas. Desde los cumpleaños de la hermana de Neymar hasta las infinitas anécdotas de Ronaldinho y compañía, nos adentraremos en un mundo donde el éxito deportivo y el espíritu de carnaval parecen ir de la mano.
-  </p>
-</div>
-
-<div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family: sans-serif;">
-  <h3 style="margin-top:0; color:#4fc3f7; font-style:italic;">
-    Seminario invitado: Historias (In)necesarias de la 324
-  </h3>
-
-  <p><strong>Oradores:</strong> María Emilia Echeveste, Bruno Buffa (CIEM-FAMAF)</p>
-  <p>🗓️ <strong>Viernes 03 de octubre, 14:00 hs</strong><br>
-     📍 Of. 324 – FAMAF</p>
-  <p><strong>Resumen:</strong><br>
-      Esta jornada propone recuperar la relevancia de la historización de los procesos de aprendizaje como dimensión clave para comprender la educación en toda su complejidad. La historia de la educación nos muestra que las formas de enseñar y aprender no son estáticas ni naturales, sino construcciones sociales y culturales que se transforman en relación con los diferentes contextos políticos, económicos y culturales, pero por sobre todo NOS TRANSFORMAN como personas. Hay un antes y un después de haber pasado por la 324.
-      <br>
-      Inspirados en la perspectiva vigotskiana y por ende constructivista, entendemos que el aprendizaje es un proceso social, mediado por el lenguaje, las herramientas culturales y las interacciones con otros. En este sentido, el sujeto aprende siempre en relación con la comunidad a la que pertenece, en este caso la 324, inscribiendo su experiencia en una trama histórica colectiva.
-      <br>
-      La jornada invita a reflexionar sobre historias de grandes integrantes del espacio que ahora ocupan uds. Los procesos educativos actuales se inscriben en una continuidad histórica, reconocer esa historicidad nos permite pensar nuestras prácticas educativas (y algunas no tanto) y  abrir caminos a los que vendrán detrás de uds a habitar la gloriosa 324.
   </p>
 </div>
 

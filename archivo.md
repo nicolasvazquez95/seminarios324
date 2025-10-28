@@ -8,6 +8,23 @@ title: "Archivo"
 <div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family: sans-serif;">
   <h3 style="margin-top:0;">
     <a class="seminario-link"
+       href="{{ '/2025/10/24/ciencia-y-arte/' | relative_url }}">
+      Ciencia y Arte: La historia de la creación con gran trascendencia social y cultural
+    </a>
+  </h3>
+
+  <p><strong>Orador:</strong> Claudio Armas (CIEM-FAMAF)</p>
+  <p>🗓️ <strong>Viernes 24 de octubre, 14:00 hs</strong><br>
+     📍 Of. 324 – FAMAF</p>
+  <p><strong>Resumen:</strong><br>
+    En esta charla, vamos a explorar eventos históricos cruciales que moldearon una de las mejores creaciones de la humanidad. Toda gran obra tuvo sus pros y contras: desde desapariciones, una carrera de experimentos científicos, robos de propiedad intelectual, y hasta una guerra por derechos de autor. Sin embargo, también hubo quienes entregaron alma y cuerpo para que hoy podamos disfrutar de la combinación que nos entrega la ciencia y el arte.
+  </p>
+</div>
+
+
+<div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family: sans-serif;">
+  <h3 style="margin-top:0;">
+    <a class="seminario-link"
        href="{{ '/2025/10/18/De-la-cancha-al-carnaval/' | relative_url }}">
       De la cancha al carnaval
     </a>
