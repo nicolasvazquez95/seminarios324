@@ -40,7 +40,7 @@ title: "Archivo"
 
 
 <div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family: sans-serif;">
-  <h3 style="margin-top:0; color:#4fc3f7; font-style:italic;">
+  <h3 style="margin-top:0; color:#15ff5bff; font-style:italic;">
     Seminario invitado: Historias (In)necesarias de la 324
   </h3>
 

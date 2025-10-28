@@ -11,6 +11,8 @@ author:
 # Tema
 theme: minima
 
+favicon: favicon.png
+
 # Configuración de posts
 collections:
   posts:
