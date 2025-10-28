@@ -12,7 +12,7 @@ Aula 32 - FAMAF
 
 Me fascina cómo lo más complejo suele tener una explicación sencilla y elegante. Y la naturaleza es experta en eso. En esta charla, les muestro unos ejemplos que me vuelan la cabeza: algoritmos en ranas, materiales en arañas... No es biología, es buena física. Quizás, la próxima gran idea no esté en un paper, sino en observar el mundo con nuevos ojos.
 
-[Link a la presentación]({{ site.baseurl }}/assets/posts/slides/Imitar_la_Forma.pdf)
+[Link a la presentación]({{ site.baseurl }}/assets/posts/slides/Imitar_la_forma.pdf)
 
 ## 📔 Notas del autor 
 
