@@ -21,12 +21,22 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
 </div> -->
 
 <div style="background:#2c2c2c; border-left:5px solid #4fc3f7; border-radius:12px; padding:1.2em; margin:1.5em 0; color:#e0e0e0; font-family: sans-serif; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
-  <h3><em style="color:#4fc3f7; font-size:1.5em;">Título de seminario a confirmar</em></h3>
+  <h3><em style="color:#4fc3f7; font-size:1.5em;">El bosque oscuro</em></h3>
   <p><strong>Orador:</strong> Gastón Briozzo (IFEG-FAMAF)</p>
   <p>🗓️ <strong>Viernes 31 de octubre, 14:00 hs</strong><br>
      📍 Of. 324 – FAMAF</p>
   <p><strong>Resumen:</strong><br>
-     Estén atentos a las novedades que se publicarán próximamente.
+  <em>
+     Te despiertas en una oscura espesura, un denso bosque lleno de arboles, arbustos y malezas. El aire es denso, inmóvil. La quietud del lugar te impacienta. No ves ni un solo nido de aves en el follaje de los árboles. Los frutos de los arbustos se pudre en el suelo, ningún animal que los aproveche. Un bosque que debería estar lleno de vida, parece inerte, vacío. 
+      <br><br>
+      Silencio.
+      <br><br>
+      Piensas en gritar, pedir ayuda, preguntar donde están todos. Abres la boca, pero no salen las palabras. El silencio te oprime. El bosque te ahoga. La oscuridad te desespera.
+      <br><br>
+      Lo entiendes, no estas solo.
+      <br><br>
+      Tu también haces silencio.
+  </em>
   </p>
 </div>
 
