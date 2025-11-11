@@ -21,22 +21,12 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
 </div> -->
 
 <div style="background:#2c2c2c; border-left:5px solid #4fc3f7; border-radius:12px; padding:1.2em; margin:1.5em 0; color:#e0e0e0; font-family: sans-serif; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
-  <h3><em style="color:#4fc3f7; font-size:1.5em;">El bosque oscuro</em></h3>
-  <p><strong>Orador:</strong> Gastón Briozzo (IFEG-FAMAF)</p>
-  <p>🗓️ <strong>Viernes 7 de noviembre, 14:00 hs</strong><br>
+  <h3><em style="color:#4fc3f7; font-size:1.5em;">Título de seminario a confirmar</em></h3>
+  <p><strong>Orador:</strong> </p>
+  <p>🗓️ <strong>Viernes 14 de noviembre, 14:00 hs</strong><br>
      📍 Of. 324 – FAMAF</p>
   <p><strong>Resumen:</strong><br>
-  <em>
-     Te despiertas en una oscura espesura, un denso bosque lleno de arboles, arbustos y malezas. El aire es denso, inmóvil. La quietud del lugar te impacienta. No ves ni un solo nido de aves en el follaje de los árboles. Los frutos de los arbustos se pudre en el suelo, ningún animal que los aproveche. Un bosque que debería estar lleno de vida, parece inerte, vacío. 
-      <br><br>
-      Silencio.
-      <br><br>
-      Piensas en gritar, pedir ayuda, preguntar donde están todos. Abres la boca, pero no salen las palabras. El silencio te oprime. El bosque te ahoga. La oscuridad te desespera.
-      <br><br>
-      Lo entiendes, no estas solo.
-      <br><br>
-      Tu también haces silencio.
-  </em>
+      Estén atentos a las novedades que se publicarán próximamente.
   </p>
 </div>
 
@@ -63,6 +53,33 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
 <div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family: sans-serif;">
   <h3 style="margin-top:0;">
     <a class="seminario-link"
+       href="{{ '/2025/11/07/El-bosque-oscuro/' | relative_url }}">
+      El bosque oscuro
+    </a>
+  </h3>
+
+  <p><strong>Orador:</strong> Gastón Briozzo (IFEG-FAMAF)</p>
+  <p>🗓️ <strong>Viernes 07 de noviembre, 14:00 hs</strong><br>
+     📍 Of. 324 – FAMAF</p>
+  <p><strong>Resumen:</strong><br>
+     <em>
+     Te despiertas en una oscura espesura, un denso bosque lleno de arboles, arbustos y malezas. El aire es denso, inmóvil. La quietud del lugar te impacienta. No ves ni un solo nido de aves en el follaje de los árboles. Los frutos de los arbustos se pudre en el suelo, ningún animal que los aproveche. Un bosque que debería estar lleno de vida, parece inerte, vacío. 
+      <br><br>
+      Silencio.
+      <br><br>
+      Piensas en gritar, pedir ayuda, preguntar donde están todos. Abres la boca, pero no salen las palabras. El silencio te oprime. El bosque te ahoga. La oscuridad te desespera.
+      <br><br>
+      Lo entiendes, no estas solo.
+      <br><br>
+      Tu también haces silencio.
+  </em>
+  </p>
+</div>
+
+
+<div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family: sans-serif;">
+  <h3 style="margin-top:0;">
+    <a class="seminario-link"
        href="{{ '/2025/10/24/ciencia-y-arte/' | relative_url }}">
       Ciencia y Arte: La historia de la creación con gran trascendencia social y cultural
     </a>
@@ -73,22 +90,6 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
      📍 Of. 324 – FAMAF</p>
   <p><strong>Resumen:</strong><br>
     En esta charla, vamos a explorar eventos históricos cruciales que moldearon una de las mejores creaciones de la humanidad. Toda gran obra tuvo sus pros y contras: desde desapariciones, una carrera de experimentos científicos, robos de propiedad intelectual, y hasta una guerra por derechos de autor. Sin embargo, también hubo quienes entregaron alma y cuerpo para que hoy podamos disfrutar de la combinación que nos entrega la ciencia y el arte.
-  </p>
-</div>
-
-<div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family: sans-serif;">
-  <h3 style="margin-top:0;">
-    <a class="seminario-link"
-       href="{{ '/2025/10/18/De-la-cancha-al-carnaval/' | relative_url }}">
-      De la cancha al carnaval
-    </a>
-  </h3>
-
-  <p><strong>Orador:</strong> Gonzalo Angaut (IFEG-FAMAF)</p>
-  <p>🗓️ <strong>Viernes 10 de octubre, 14:00 hs</strong><br>
-     📍 Of. 324 – FAMAF</p>
-  <p><strong>Resumen:</strong><br>
-    Brasil no solo es la selección con más mundiales, sino también la cuna del jogo bonito. Pero fuera de la cancha, sus ídolos se destacan por su vida de excesos y fiestas. Desde los cumpleaños de la hermana de Neymar hasta las infinitas anécdotas de Ronaldinho y compañía, nos adentraremos en un mundo donde el éxito deportivo y el espíritu de carnaval parecen ir de la mano.
   </p>
 </div>
 

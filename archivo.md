@@ -8,6 +8,32 @@ title: "Archivo"
 <div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family: sans-serif;">
   <h3 style="margin-top:0;">
     <a class="seminario-link"
+       href="{{ '/2025/11/07/El-bosque-oscuro/' | relative_url }}">
+      El bosque oscuro
+    </a>
+  </h3>
+
+  <p><strong>Orador:</strong> Gastón Briozzo (IFEG-FAMAF)</p>
+  <p>🗓️ <strong>Viernes 07 de noviembre, 14:00 hs</strong><br>
+     📍 Of. 324 – FAMAF</p>
+  <p><strong>Resumen:</strong><br>
+     <em>
+     Te despiertas en una oscura espesura, un denso bosque lleno de arboles, arbustos y malezas. El aire es denso, inmóvil. La quietud del lugar te impacienta. No ves ni un solo nido de aves en el follaje de los árboles. Los frutos de los arbustos se pudre en el suelo, ningún animal que los aproveche. Un bosque que debería estar lleno de vida, parece inerte, vacío. 
+      <br><br>
+      Silencio.
+      <br><br>
+      Piensas en gritar, pedir ayuda, preguntar donde están todos. Abres la boca, pero no salen las palabras. El silencio te oprime. El bosque te ahoga. La oscuridad te desespera.
+      <br><br>
+      Lo entiendes, no estas solo.
+      <br><br>
+      Tu también haces silencio.
+  </em>
+  </p>
+</div>
+
+<div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family: sans-serif;">
+  <h3 style="margin-top:0;">
+    <a class="seminario-link"
        href="{{ '/2025/10/24/ciencia-y-arte/' | relative_url }}">
       Ciencia y Arte: La historia de la creación con gran trascendencia social y cultural
     </a>
