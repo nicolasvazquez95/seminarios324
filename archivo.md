@@ -8,6 +8,22 @@ title: "Archivo"
 <div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family: sans-serif;">
   <h3 style="margin-top:0;">
     <a class="seminario-link"
+       href="{{ '/2025/11/14/Esto-no-es-un-juego/' | relative_url }}">
+      Esto no es un juego
+    </a>
+  </h3>
+
+  <p><strong>Orador:</strong> Rodrigo Pastrana (CIEM-FAMAF)</p>
+  <p>🗓️ <strong>Viernes 14 de noviembre, 14:00 hs</strong><br>
+     📍 Of. 324 – FAMAF</p>
+  <p><strong>Resumen:</strong><br>
+    ¿Qué se sentirá ser el rey, amo y señor de una civilización medieval, con la responsabilidad de llevar a tu pueblo a la gloria en un mundo hostil? Una mala decisión y tu ciudad será convertida en cenizas.
+  </p>
+</div>
+
+<div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family: sans-serif;">
+  <h3 style="margin-top:0;">
+    <a class="seminario-link"
        href="{{ '/2025/11/07/El-bosque-oscuro/' | relative_url }}">
       El bosque oscuro
     </a>
