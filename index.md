@@ -21,12 +21,12 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
 </div> -->
 
 <div style="background:#2c2c2c; border-left:5px solid #4fc3f7; border-radius:12px; padding:1.2em; margin:1.5em 0; color:#e0e0e0; font-family: sans-serif; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
-  <h3><em style="color:#4fc3f7; font-size:1.5em;">Título de seminario a confirmar</em></h3>
+  <h3><em style="color:#4fc3f7; font-size:1.5em;">Hablemos de lo que no existe</em></h3>
   <p><strong>Orador:</strong> Agustín Taboada (IFEG-FAMAF)</p>
   <p>🗓️ <strong>Jueves 20 de noviembre, 14:00 hs</strong><br>
      📍 Of. 324 – FAMAF</p>
   <p><strong>Resumen:</strong><br>
-     Estén atentos a las novedades que se publicarán próximamente.
+    En esta entrega pretendo contarles acerca de aquellas cosas que "no existen", pero que aún así penetran en lo más profundo de mi psiquis y dan lugar a largas noches de desvelo. <em> Hablemos de lo que no existe </em> es el lugar donde lo que no existe, existe. Allí donde distintas historias aterradoras confluyen y erizan la piel de aquellos que osan escucharlas. Allí donde todo carece de explicación lógica y por ende, no puede ser controlado. Allí donde entendemos que aquello que más tememos, puede estar al acecho.  
   </p>
 </div>
 
