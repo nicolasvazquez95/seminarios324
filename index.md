@@ -21,12 +21,12 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
 </div> -->
 
 <div style="background:#2c2c2c; border-left:5px solid #4fc3f7; border-radius:12px; padding:1.2em; margin:1.5em 0; color:#e0e0e0; font-family: sans-serif; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
-  <h3><em style="color:#4fc3f7; font-size:1.5em;">Hablemos de lo que no existe</em></h3>
-  <p><strong>Orador:</strong> Agustín Taboada (IFEG-FAMAF)</p>
-  <p>🗓️ <strong>Jueves 20 de noviembre, 14:00 hs</strong><br>
+  <h3><em style="color:#4fc3f7; font-size:1.5em;">Una (breve) introducción al mercado de capitales</em></h3>
+  <p><strong>Orador:</strong> Luis Biedma (CIEM-FAMAF)</p>
+  <p>🗓️ <strong>Jueves 27 de noviembre, 14:00 hs</strong><br>
      📍 Of. 324 – FAMAF</p>
   <p><strong>Resumen:</strong><br>
-    En esta entrega pretendo contarles acerca de aquellas cosas que "no existen", pero que aún así penetran en lo más profundo de mi psiquis y dan lugar a largas noches de desvelo. <em> Hablemos de lo que no existe </em> es el lugar donde lo que no existe, existe. Allí donde distintas historias aterradoras confluyen y erizan la piel de aquellos que osan escucharlas. Allí donde todo carece de explicación lógica y por ende, no puede ser controlado. Allí donde entendemos que aquello que más tememos, puede estar al acecho.  
+    Vamos a aprender como estrujar cada centavo de nuestros (a veces inexistentes) ahorros. 
   </p>
 </div>
 
@@ -53,6 +53,22 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
 <div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family: sans-serif;">
   <h3 style="margin-top:0;">
     <a class="seminario-link"
+       href="{{ '/2025/11/20/Hablemos-de-lo-que-no-existe/' | relative_url }}">
+      Hablemos de lo que no existe
+    </a>
+  </h3>
+
+  <p><strong>Orador:</strong> Agustín Taboada (IFEG-FAMAF)</p>
+  <p>🗓️ <strong>Jueves 20 de noviembre, 14:00 hs</strong><br>
+     📍 Of. 324 – FAMAF</p>
+  <p><strong>Resumen:</strong><br>
+     En esta entrega pretendo contarles acerca de aquellas cosas que "no existen", pero que aún así penetran en lo más profundo de mi psiquis y dan lugar a largas noches de desvelo. <em> Hablemos de lo que no existe </em> es el lugar donde lo que no existe, existe. Allí donde distintas historias aterradoras confluyen y erizan la piel de aquellos que osan escucharlas. Allí donde todo carece de explicación lógica y por ende, no puede ser controlado. Allí donde entendemos que aquello que más tememos, puede estar al acecho. 
+  </p>
+</div>
+
+<div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family: sans-serif;">
+  <h3 style="margin-top:0;">
+    <a class="seminario-link"
        href="{{ '/2025/11/14/Esto-no-es-un-juego/' | relative_url }}">
       Esto no es un juego
     </a>
@@ -63,33 +79,6 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
      📍 Of. 324 – FAMAF</p>
   <p><strong>Resumen:</strong><br>
     ¿Qué se sentirá ser el rey, amo y señor de una civilización medieval, con la responsabilidad de llevar a tu pueblo a la gloria en un mundo hostil? Una mala decisión y tu ciudad será convertida en cenizas.
-  </p>
-</div>
-
-
-<div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family: sans-serif;">
-  <h3 style="margin-top:0;">
-    <a class="seminario-link"
-       href="{{ '/2025/11/07/El-bosque-oscuro/' | relative_url }}">
-      El bosque oscuro
-    </a>
-  </h3>
-
-  <p><strong>Orador:</strong> Gastón Briozzo (IFEG-FAMAF)</p>
-  <p>🗓️ <strong>Viernes 07 de noviembre, 14:00 hs</strong><br>
-     📍 Of. 324 – FAMAF</p>
-  <p><strong>Resumen:</strong><br>
-     <em>
-     Te despiertas en una oscura espesura, un denso bosque lleno de arboles, arbustos y malezas. El aire es denso, inmóvil. La quietud del lugar te impacienta. No ves ni un solo nido de aves en el follaje de los árboles. Los frutos de los arbustos se pudre en el suelo, ningún animal que los aproveche. Un bosque que debería estar lleno de vida, parece inerte, vacío. 
-      <br><br>
-      Silencio.
-      <br><br>
-      Piensas en gritar, pedir ayuda, preguntar donde están todos. Abres la boca, pero no salen las palabras. El silencio te oprime. El bosque te ahoga. La oscuridad te desespera.
-      <br><br>
-      Lo entiendes, no estas solo.
-      <br><br>
-      Tu también haces silencio.
-  </em>
   </p>
 </div>
 
