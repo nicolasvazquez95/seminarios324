@@ -22,7 +22,7 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
 
 <div style="background:#2c2c2c; border-left:5px solid #4fc3f7; border-radius:12px; padding:1.2em; margin:1.5em 0; color:#e0e0e0; font-family: sans-serif; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
   <h3><em style="color:#4fc3f7; font-size:1.5em;">Una (breve) introducción al mercado de capitales</em></h3>
-  <p><strong>Orador:</strong> Luis Biedma (CIEM-FAMAF)</p>
+  <p><strong>Orador:</strong> Luis Biedma (FAMAF)</p>
   <p>🗓️ <strong>Jueves 27 de noviembre, 14:00 hs</strong><br>
      📍 Of. 324 – FAMAF</p>
   <p><strong>Resumen:</strong><br>
