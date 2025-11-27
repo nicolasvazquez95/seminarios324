@@ -21,12 +21,12 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
 </div> -->
 
 <div style="background:#2c2c2c; border-left:5px solid #4fc3f7; border-radius:12px; padding:1.2em; margin:1.5em 0; color:#e0e0e0; font-family: sans-serif; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
-  <h3><em style="color:#4fc3f7; font-size:1.5em;">Una (breve) introducción al mercado de capitales</em></h3>
-  <p><strong>Orador:</strong> Luis Biedma (FAMAF)</p>
-  <p>🗓️ <strong>Jueves 27 de noviembre, 14:00 hs</strong><br>
+  <h3><em style="color:#4fc3f7; font-size:1.5em;">Título de seminario a confirmar</em></h3>
+  <p><strong>Orador:</strong> Daniel Federico Fernando Robledo Flores (Pili)</p>
+  <p>🗓️ <strong>Jueves 04 de diciembre, 14:00 hs</strong><br>
      📍 Of. 324 – FAMAF</p>
   <p><strong>Resumen:</strong><br>
-    Vamos a aprender como estrujar cada centavo de nuestros (a veces inexistentes) ahorros. 
+      Estén atentos a las novedades que se publicarán próximamente.
   </p>
 </div>
 
@@ -53,6 +53,22 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
 <div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family: sans-serif;">
   <h3 style="margin-top:0;">
     <a class="seminario-link"
+       href="{{ '/2025/11/27/Breve-introduccion-mercado-capitales/' | relative_url }}">
+      Una (breve) introducción al mercado de capitales
+    </a>
+  </h3>
+
+  <p><strong>Orador:</strong> Luis Biedma (FAMAF)</p>
+  <p>🗓️ <strong>Jueves 27 de noviembre, 14:00 hs</strong><br>
+     📍 Of. 324 – FAMAF</p>
+  <p><strong>Resumen:</strong><br>
+    Vamos a aprender como estrujar cada centavo de nuestros (a veces inexistentes) ahorros. 
+  </p>
+</div>
+
+<div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family: sans-serif;">
+  <h3 style="margin-top:0;">
+    <a class="seminario-link"
        href="{{ '/2025/11/20/Hablemos-de-lo-que-no-existe/' | relative_url }}">
       Hablemos de lo que no existe
     </a>
@@ -63,22 +79,6 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
      📍 Of. 324 – FAMAF</p>
   <p><strong>Resumen:</strong><br>
      En esta entrega pretendo contarles acerca de aquellas cosas que "no existen", pero que aún así penetran en lo más profundo de mi psiquis y dan lugar a largas noches de desvelo. <em> Hablemos de lo que no existe </em> es el lugar donde lo que no existe, existe. Allí donde distintas historias aterradoras confluyen y erizan la piel de aquellos que osan escucharlas. Allí donde todo carece de explicación lógica y por ende, no puede ser controlado. Allí donde entendemos que aquello que más tememos, puede estar al acecho. 
-  </p>
-</div>
-
-<div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family: sans-serif;">
-  <h3 style="margin-top:0;">
-    <a class="seminario-link"
-       href="{{ '/2025/11/14/Esto-no-es-un-juego/' | relative_url }}">
-      Esto no es un juego
-    </a>
-  </h3>
-
-  <p><strong>Orador:</strong> Rodrigo Pastrana (CIEM-FAMAF)</p>
-  <p>🗓️ <strong>Viernes 14 de noviembre, 14:00 hs</strong><br>
-     📍 Of. 324 – FAMAF</p>
-  <p><strong>Resumen:</strong><br>
-    ¿Qué se sentirá ser el rey, amo y señor de una civilización medieval, con la responsabilidad de llevar a tu pueblo a la gloria en un mundo hostil? Una mala decisión y tu ciudad será convertida en cenizas.
   </p>
 </div>
 
