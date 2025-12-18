@@ -59,7 +59,7 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
   </h3>
 
   <p><strong>Orador:</strong> Daniel Federico Fernando Robledo Flores (Pili)</p>
-  <p>🗓️ <strong>Viernes 19 de septiembre, 14:30 hs</strong><br>
+  <p>🗓️ <strong>Viernes 04 de diciembre, 14:00 hs</strong><br>
      📍 Of. 324 – FAMAF</p>
   <p><strong>Resumen:</strong><br>
     ¿Te ha pasado que el último poco de detergente dura milenios hasta que llega el nuevo? Esto es una “ley” de la vida, cómo la ley de Murphy, pero para los recursos. La llamamos Ley de Parkinson, y también es la responsable de entregar a última hora los trabajos y de llegar arañando a fin de mes. En esta charla vamos a desentrañar su porqué psicológico/antropológico/evolutivo, cómo podemos sobreponernos  y lograr una vida más consciente de la existencia de este fenómeno social.
