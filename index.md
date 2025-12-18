@@ -20,7 +20,7 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
   </p>
 </div> -->
 
-<div style="background:#2c2c2c; border-left:5px solid #4fc3f7; border-radius:12px; padding:1.2em; margin:1.5em 0; color:#e0e0e0; font-family: sans-serif; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
+<!-- <div style="background:#2c2c2c; border-left:5px solid #4fc3f7; border-radius:12px; padding:1.2em; margin:1.5em 0; color:#e0e0e0; font-family: sans-serif; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
   <h3><em style="color:#4fc3f7; font-size:1.5em;">Título de seminario a confirmar</em></h3>
   <p><strong>Orador:</strong> Daniel Federico Fernando Robledo Flores (Pili)</p>
   <p>🗓️ <strong>Jueves 04 de diciembre, 14:00 hs</strong><br>
@@ -28,7 +28,7 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
   <p><strong>Resumen:</strong><br>
       Estén atentos a las novedades que se publicarán próximamente.
   </p>
-</div>
+</div> -->
 
 
 ## 📂 Resúmenes de seminarios anteriores
@@ -53,6 +53,22 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
 <div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family: sans-serif;">
   <h3 style="margin-top:0;">
     <a class="seminario-link"
+       href="{{ '/2025/12/04/Parkinson/' | relative_url }}">
+      Parkinson y LPM...
+    </a>
+  </h3>
+
+  <p><strong>Orador:</strong> Daniel Federico Fernando Robledo Flores (Pili)</p>
+  <p>🗓️ <strong>Viernes 19 de septiembre, 14:30 hs</strong><br>
+     📍 Of. 324 – FAMAF</p>
+  <p><strong>Resumen:</strong><br>
+    ¿Te ha pasado que el último poco de detergente dura milenios hasta que llega el nuevo? Esto es una “ley” de la vida, cómo la ley de Murphy, pero para los recursos. La llamamos Ley de Parkinson, y también es la responsable de entregar a última hora los trabajos y de llegar arañando a fin de mes. En esta charla vamos a desentrañar su porqué psicológico/antropológico/evolutivo, cómo podemos sobreponernos  y lograr una vida más consciente de la existencia de este fenómeno social.
+  </p>
+</div>
+
+<div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family: sans-serif;">
+  <h3 style="margin-top:0;">
+    <a class="seminario-link"
        href="{{ '/2025/11/27/Breve-introduccion-mercado-capitales/' | relative_url }}">
       Una (breve) introducción al mercado de capitales
     </a>
@@ -63,22 +79,6 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
      📍 Of. 324 – FAMAF</p>
   <p><strong>Resumen:</strong><br>
     Vamos a aprender como estrujar cada centavo de nuestros (a veces inexistentes) ahorros. 
-  </p>
-</div>
-
-<div style="background:#1e1e1e; border-radius:12px; padding:1em; margin:1em 0; color:#e0e0e0; font-family: sans-serif;">
-  <h3 style="margin-top:0;">
-    <a class="seminario-link"
-       href="{{ '/2025/11/20/Hablemos-de-lo-que-no-existe/' | relative_url }}">
-      Hablemos de lo que no existe
-    </a>
-  </h3>
-
-  <p><strong>Orador:</strong> Agustín Taboada (IFEG-FAMAF)</p>
-  <p>🗓️ <strong>Jueves 20 de noviembre, 14:00 hs</strong><br>
-     📍 Of. 324 – FAMAF</p>
-  <p><strong>Resumen:</strong><br>
-     En esta entrega pretendo contarles acerca de aquellas cosas que "no existen", pero que aún así penetran en lo más profundo de mi psiquis y dan lugar a largas noches de desvelo. <em> Hablemos de lo que no existe </em> es el lugar donde lo que no existe, existe. Allí donde distintas historias aterradoras confluyen y erizan la piel de aquellos que osan escucharlas. Allí donde todo carece de explicación lógica y por ende, no puede ser controlado. Allí donde entendemos que aquello que más tememos, puede estar al acecho. 
   </p>
 </div>
 
