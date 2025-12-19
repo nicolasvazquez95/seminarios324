@@ -8,7 +8,7 @@ date: 2025-12-04 14:00:00
 
 Oficina 324 - FAMAF
 
-<!-- ![Timba financiera]({{ '/assets/posts/front/Introduccion-Mercado-Capitales.jpg' | relative_url }}) -->
+![Parkinson]({{ '/assets/posts/front/Parkinson.png' | relative_url }})
 
 ¿Te ha pasado que el último poco de detergente dura milenios hasta que llega el nuevo? Esto es una “ley” de la vida, cómo la ley de Murphy, pero para los recursos. La llamamos Ley de Parkinson, y también es la responsable de entregar a última hora los trabajos y de llegar arañando a fin de mes. En esta charla vamos a desentrañar su porqué psicológico/antropológico/evolutivo, cómo podemos sobreponernos  y lograr una vida más consciente de la existencia de este fenómeno social.
 
