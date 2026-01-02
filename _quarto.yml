@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+language:
+    search-text-placeholder: "Buscar..."
+
+website:
+  favicon: favicon.png
+  description: "Seminarios de la 324"
+  site-url: https://nicolasvazquez95.github.io/seminarios324 # you must change this appropriately for RSS feeds to work properly
+  title: "Seminarios de la 324"
+  open-graph: true
+  search: 
+    location: navbar
+    type: textbox
+  navbar:
+    pinned: true
+    right:
+      - archivo.qmd
+      - about.qmd
+      - icon: envelope
+        href: mailto:nicolasvazquez.vonbibow@unc.edu.ar
+      - icon: rss
+        href: index.xml
+format:
+  html:
+    respect-user-color-scheme: true
+    theme:  
+      light: litera
+      dark: darkly 
+    css: styles.css
+
+
+

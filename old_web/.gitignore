@@ -6,10 +6,3 @@ _site/
 .bundle/
 vendor/
 Gemfile.lock
-
-# Ignore Quarto output folders
-_site/
-.quarto/
-
-/.quarto/
-**/*.quarto_ipynb

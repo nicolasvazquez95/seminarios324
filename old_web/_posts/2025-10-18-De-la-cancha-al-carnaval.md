@@ -13,8 +13,8 @@ Oficina 324 - FAMAF
 Brasil no solo es la selección con más mundiales, sino también la cuna del jogo bonito. Pero fuera de la cancha, sus ídolos se destacan por su vida de excesos y fiestas. Desde los cumpleaños de la hermana de Neymar hasta las infinitas anécdotas de Ronaldinho y compañía, nos adentraremos en un mundo donde el éxito deportivo y el espíritu de carnaval parecen ir de la mano.
 
 <!-- [Link a la presentación]({{ site.baseurl }}/assets/posts/slides/Imitar_la_Forma.pdf) -->
-[Link a la presentación](https://docs.google.com/presentation/d/1w5A9dGHYMFnBlPx1H-VLp4bA5T-UgX5UIgvp_WX6O6c/edit?usp=sharing)
 
+[Link a la presentación](https://docs.google.com/presentation/d/1w5A9dGHYMFnBlPx1H-VLp4bA5T-UgX5UIgvp_WX6O6c/edit?usp=sharing)
 
 ## 📸 El evento
 

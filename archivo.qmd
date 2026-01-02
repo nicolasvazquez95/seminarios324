@@ -1,0 +1,39 @@
+---
+title: "Archivo"
+listing:
+  id: posts
+  contents: posts
+  feed: true
+  sort: "date desc"
+  type: grid # `default` is list
+  categories: true
+  sort-ui: true
+  filter-ui: [title, author, date, categories]
+  fields: [image, author, date, title, subtitle, categories, description]
+page-layout: full
+title-block-banner: true
+lang: es
+---
+## Archivo completo de seminarios
+Utilizá los filtros de la derecha para buscar seminarios por año o categoría. También podés usar el buscador para filtrar por palabras clave. A la izquierda hay diferentes vistas para explorar el archivo.
+
+::: {#posts}
+:::
+
+## Seminarios invitados/otros
+
+### 03-10-2025 (Seminario #6): Historias (In)necesarias de la 324
+
+#### Oradores: María Emilia Echeveste, Bruno Buffa
+#### Resumen
+Esta jornada propone recuperar la relevancia de la historización de los procesos de aprendizaje como dimensión clave para comprender la educación en toda su complejidad. La historia de la educación nos muestra que las formas de enseñar y aprender no son estáticas ni naturales, sino construcciones sociales y culturales que se transforman en relación con los diferentes contextos políticos, económicos y culturales, pero por sobre todo NOS TRANSFORMAN como personas. Hay un antes y un después de haber pasado por la 324.
+
+Inspirados en la perspectiva vigotskiana y por ende constructivista, entendemos que el aprendizaje es un proceso social, mediado por el lenguaje, las herramientas culturales y las interacciones con otros. En este sentido, el sujeto aprende siempre en relación con la comunidad a la que pertenece, en este caso la 324, inscribiendo su experiencia en una trama histórica colectiva.
+
+La jornada invita a reflexionar sobre historias de grandes integrantes del espacio que ahora ocupan uds. Los procesos educativos actuales se inscriben en una continuidad histórica, reconocer esa historicidad nos permite pensar nuestras prácticas educativas (y algunas no tanto) y  abrir caminos a los que vendrán detrás de uds a habitar la gloriosa 324.
+
+## Seminarios prohibidos
+Estos seminarios no están listados a pedido de sus autores. Se dice que alguna vez existieron, pero nadie jamás oyó hablar de ellos.
+
+### 12-12-2025 - "" - Nicolás Martin
+#### Resumen

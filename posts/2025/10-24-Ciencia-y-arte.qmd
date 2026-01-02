@@ -1,0 +1,29 @@
+---
+title: "Ciencia y Arte"
+subtitle: "La historia de la creación con gran trascendencia social y cultural"
+author: "Claudio Armas"
+date: "2025-10-24"
+categories: [2025, octubre, ciencia, arte, historia, cine]
+---
+
+![](../../assets/posts/front/ciencia_y_arte.png){fig-align="center" width="894"}
+
+## Resumen
+
+En esta charla, vamos a explorar eventos históricos cruciales que moldearon una de las mejores creaciones de la humanidad. Toda gran obra tuvo sus pros y contras: desde desapariciones, una carrera de experimentos científicos, robos de propiedad intelectual, y hasta una guerra por derechos de autor. Sin embargo, también hubo quienes entregaron alma y cuerpo para que hoy podamos disfrutar de la combinación que nos entrega la ciencia y el arte.
+
+👉Link a la presentación [aquí](../../assets/posts/slides/ciencia_y_arte.pdf).
+
+## Datos
+
+**Hora:** 14:00 hrs
+
+**Lugar:** Oficina 324, FAMAF
+
+_Seminario #8_
+
+## El evento
+
+![](../../assets/posts/photos/2025-10-24.png){fig-align="center" width="667"}
+
+![](/assets/posts\back\ciencia_y_arte.jpg){fig-align="center" width="894"}

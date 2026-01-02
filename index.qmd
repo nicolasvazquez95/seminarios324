@@ -1,0 +1,41 @@
+---
+title: "Seminarios de becarios de la 324"
+listing:
+  id: posts
+  contents: posts
+  feed: true
+  sort: "date desc"
+  type: default
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  max-items: 2
+page-layout: full
+title-block-banner: true
+lang: es
+---
+
+![](assets/flyer2.png){fig-align="center" width="854"}
+
+# Bienvenido/a a la página web de nuestros seminarios!
+
+Aquí vas a encontrar la información sobre el próximo seminario y un archivo de los seminarios anteriores.
+
+## 📢 Próximo seminario
+
+Los becarios/as están de vacaciones. Regresamos en febrero de 2026!
+
+![](assets/mafalda_playa.gif){fig-align="center"}
+
+## 🗂️ Últimos seminarios
+
+::: {#posts}
+:::
+
+**Ver archivo de seminarios completo en el [Archivo](archivo.qmd).**
+
+## ✉️ Suscribite
+
+Sumate a la **lista de difusión** para estar atento/a al próximo seminario (hacé click en el QR o escanealo con el celular):
+
+[![](assets/img\qr-form.jpeg "QR"){fig-align="center" width="281"}](https://forms.gle/rpGbTqEZgYM9etnn)
