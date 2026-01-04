@@ -35,6 +35,6 @@ La jornada invita a reflexionar sobre historias de grandes integrantes del espac
 ## Seminarios prohibidos
 Estos seminarios no están listados a pedido de sus autores. Se dice que alguna vez existieron, pero nadie jamás oyó hablar de ellos.
 
-### 12-12-2025 - "Resultados experimentales de un evento social altamente no lineal" - Nicolás Martin
+### 12-12-2025 (Seminario #13) - "Resultados experimentales de un evento social altamente no lineal" - Nicolás Martin
 #### Resumen
 Se presentan los resultados de un estudio aplicado a un evento social caracterizado por dinámicas no lineales y procesos de acoplamiento colectivo. Se describen las condiciones iniciales, las fases de transición observadas y los mecanismos de estabilización del sistema. Asimismo, se discuten fluctuaciones, fenómenos emergentes y configuraciones finales obtenidas, evaluando su consistencia con modelos previos y destacando su relevancia para la comprensión de interacciones complejas en sistemas humanos.
