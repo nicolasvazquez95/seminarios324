@@ -28,6 +28,7 @@
     box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
     z-index: 1;
     transition: background 0.2s, transform 0.2s;
+    white-space: nowrap; /* Evita que el texto se divida en varias líneas */
   }
   
   .pez:hover {
@@ -179,33 +180,45 @@ function crearItemAtrapado(data) {
   document.getElementById('red').appendChild(div);
 }
 
-// 4. El Motor de Física (Animación tipo DVD)
+// 4. El Motor de Física (Animación tipo DVD) MEJORADO
 function animar() {
   const acuario = document.getElementById('acuario');
-  const W = acuario.clientWidth;
-  const H = acuario.clientHeight;
+  // Usamos getBoundingClientRect para precisión decimal en el ancho del contenedor
+  const rect = acuario.getBoundingClientRect(); 
+  const W = rect.width;
+  const H = rect.height;
 
   peces.forEach(p => {
-    // Si es la primera vez, medimos el tamaño del texto
-    if (p.w === 0) {
-      p.w = p.element.offsetWidth;
-      p.h = p.element.offsetHeight;
-    }
+    // Medimos el ancho del pez en cada frame por si cambia el renderizado de la fuente
+    // (Esto evita que el texto se crea más corto de lo que es)
+    p.w = p.element.offsetWidth;
+    p.h = p.element.offsetHeight;
 
     // Movemos
     p.x += p.vx;
     p.y += p.vy;
 
-    // Rebote horizontal
-    if (p.x <= 0 || p.x + p.w >= W) {
-      p.vx *= -1; // Invertir dirección
-      p.x = Math.max(0, Math.min(p.x, W - p.w)); // Corregir posición para que no se atasque
+    // --- CORRECCIÓN DE PARED DERECHA ---
+    // Si se pasa del ancho total menos el ancho del texto
+    if (p.x + p.w >= W) {
+      p.vx = -Math.abs(p.vx); // FUERZA la velocidad hacia la izquierda (negativa)
+      p.x = W - p.w - 2;      // Lo empujamos 2px hacia adentro para despegarlo
     }
 
-    // Rebote vertical
-    if (p.y <= 0 || p.y + p.h >= H) {
-      p.vy *= -1;
-      p.y = Math.max(0, Math.min(p.y, H - p.h));
+    // --- CORRECCIÓN DE PARED IZQUIERDA ---
+    else if (p.x <= 0) {
+      p.vx = Math.abs(p.vx);  // FUERZA la velocidad hacia la derecha (positiva)
+      p.x = 2;                // Lo empujamos 2px hacia adentro
+    }
+
+    // --- CORRECCIÓN DE PISO Y TECHO ---
+    if (p.y + p.h >= H) {
+      p.vy = -Math.abs(p.vy); // Fuerza hacia arriba
+      p.y = H - p.h - 2;
+    } 
+    else if (p.y <= 0) {
+      p.vy = Math.abs(p.vy);  // Fuerza hacia abajo
+      p.y = 2;
     }
 
     // Dibujamos
@@ -269,7 +282,7 @@ cargarDatos();
 </script>
 ```
 
-## Acuario v0.0
+## Acuario v0.1
 ### Instrucciones de uso
 El acuario de ideas es una heramienta interactiva para que todos los participantes de los seminarios puedan proponer y seleccionar temas para las presentaciones.
 

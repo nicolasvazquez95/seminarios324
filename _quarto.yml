@@ -31,6 +31,7 @@ format:
       light: litera
       dark: darkly 
     css: styles.css
+    lang: es
 
 
 
