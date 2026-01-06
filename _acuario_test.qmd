@@ -1,0 +1,22 @@
+```{=html}
+<div id="test-area" style="padding: 20px; background: #eef; border-radius: 8px;">
+  <h3>Estado de la conexión:</h3>
+  <pre id="resultado">Cargando datos...</pre>
+</div>
+
+<script>
+  const API_URL = "https://script.google.com/macros/s/AKfycbwZw7emDkfJXbjgQ9XhU1YEIno_4puov44IVbYLC-I1Nz-hpH4LbJvendt8p-i6uIPJ/exec"; 
+
+  fetch(API_URL)
+    .then(response => response.json())
+    .then(data => {
+      console.log("Datos recibidos:", data);
+      document.getElementById("resultado").innerText = 
+        "¡Éxito! Ideas encontradas:\n" + JSON.stringify(data, null, 2);
+    })
+    .catch(error => {
+      console.error("Error:", error);
+      document.getElementById("resultado").innerText = "Error: " + error;
+    });
+</script>
+```

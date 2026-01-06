@@ -18,6 +18,7 @@ website:
     pinned: true
     right:
       - archivo.qmd
+      - acuario.qmd
       - about.qmd
       - icon: envelope
         href: mailto:nicolasvazquez.vonbibow@unc.edu.ar
