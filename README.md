@@ -4,7 +4,7 @@ Repositorio para alojar la página web de los seminarios de becarios organizados
 
 Aquí encontrarás información sobre los próximos seminarios, así como archivos y recursos de seminarios anteriores.
 
-![Flyer](https://nicolasvazquez95.github.io/seminarios324/assets/flyer1.png)
+![Flyer](https://nicolasvazquez95.github.io/seminarios324/assets/flyer2.png)
 
 ## Sitio web
 

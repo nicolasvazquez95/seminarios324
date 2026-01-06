@@ -1,7 +1,7 @@
 ---
 title: "Seminarios de becarios de la 324"
 listing:
-  id: posts
+  id: posts-short
   contents: posts
   feed: true
   sort: "date desc"
@@ -29,10 +29,12 @@ Los becarios/as están de vacaciones. Regresamos en febrero de 2026!
 
 ## 🗂️ Últimos seminarios
 
-::: {#posts}
+::: {#posts-short}
 :::
 
 **Ver archivo de seminarios completo en el [Archivo](archivo.qmd).**
+
+*¿Buscas inspiración? ¿Tenés una excelente idea para un seminario que querés compartir? Visitá el [Acuario de ideas](acuario.qmd) y dejá tu idea, o pescá alguna que te guste!*
 
 ## ✉️ Suscribite
 

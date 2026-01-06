@@ -76,7 +76,7 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-posts .list');
+    const listingTargetEl = window.document.querySelector('#listing-posts-short .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -89,7 +89,7 @@ ul.task-list li input[type="checkbox"] {
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-posts'] = new List('listing-posts', options);
+    window['quarto-listings']['listing-posts-short'] = new List('listing-posts-short', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -408,7 +408,7 @@ window.Quarto = {
 </section>
 <section id="últimos-seminarios" class="level2">
 <h2 class="anchored" data-anchor-id="últimos-seminarios">🗂️ Últimos seminarios</h2>
-<div id="listing-posts" class="quarto-listing quarto-listing-container-default">
+<div id="listing-posts-short" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
 <div class="quarto-post image-right" data-index="0" data-categories="MjAyNSUyQ2RpY2llbWJyZSUyQ2ZpbmFuemFzJTJDcHNpY29sb2clQzMlQURh" data-listing-date-sort="1764817200000" data-listing-file-modified-sort="1767388226789" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="96">
 <div class="thumbnail"><a href="./posts/2025/12-04-Parkinson.html" class="no-external">
@@ -470,6 +470,7 @@ Luis Biedma
 <div class="listing-no-matching d-none">No hay resultados</div>
 </div>
 <p><strong>Ver archivo de seminarios completo en el <a href="./archivo.html">Archivo</a>.</strong></p>
+<p><em>¿Buscas inspiración? ¿Tenés una excelente idea para un seminario que querés compartir? Visitá el <a href="./acuario.html">Acuario de ideas</a> y dejá tu idea, o pescá alguna que te guste!</em></p>
 </section>
 <section id="suscribite" class="level2">
 <h2 class="anchored" data-anchor-id="suscribite">✉️ Suscribite</h2>
