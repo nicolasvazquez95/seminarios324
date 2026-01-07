@@ -36,7 +36,7 @@ Los becarios/as están de vacaciones. Regresamos en febrero de 2026!
 
 *¿Buscas inspiración? ¿Tenés una excelente idea para un seminario que querés compartir? Visitá el [Acuario de ideas](acuario.qmd) y dejá tu idea, o pescá alguna que te guste!*
 
-[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_3.svg)](https://cafecito.app/seminarios324)
+<!-- [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_3.svg)](https://cafecito.app/seminarios324) -->
 
 ## ✉️ Suscribite
 
