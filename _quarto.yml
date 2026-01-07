@@ -24,6 +24,8 @@ website:
         href: mailto:nicolasvazquez.vonbibow@unc.edu.ar
       - icon: rss
         href: index.xml
+    logo: favicon.png
+  back-to-top-navigation: true
 format:
   html:
     respect-user-color-scheme: true
