@@ -427,9 +427,10 @@ function cargarDatos() {
       data.forEach(item => {
         if (item.estado === 'flotando') {
           crearPez(item);
-        } else {
+        } else if (item.estado === 'atrapada') {
           crearItemAtrapado(item);
-        }
+        } // Otros estados se ignoran (probablamente ideas archivadas)
+
       });
       
       // Si no hay atrapadas
@@ -553,8 +554,8 @@ function pescarIdea(id, texto) {
     headers: { 'Content-Type': 'text/plain' },
     body: JSON.stringify({ accion: "pescar", id: id })
   }).then(() => {
-    // Recargamos todo después de un segundo para ver el cambio
-    setTimeout(cargarDatos, 1500);
+    // Recargamos todo después de medio segundo
+    setTimeout(cargarDatos, 500);
   }).catch(e => alert("Error de red: " + e));
 }
 
@@ -581,7 +582,7 @@ function lanzarIdea() {
   }).then(() => {
     alert("¡Idea lanzada!");
     txtInput.value = "";
-    setTimeout(cargarDatos, 1500);
+    setTimeout(cargarDatos, 500);
   });
 }
 
@@ -600,8 +601,8 @@ cargarDatos();
 <li>Si alguien ve una idea que le parece interesante o se siente capaz de presentarla, puede pescarla haciendo clic sobre ella.</li>
 <li>Las ideas pescadas se mueven a una “red de ideas asignadas” para que todos vean qué temas ya están tomados.</li>
 <li>Si tenés una idea genial, ¡lánzala al agua!</li>
-<li>Si pescaste una idea, ¡prepárate para tu seminario!</li>
-<li>Si ya preparaste tu seminario, no olvides contactar al organizador para fijar una fecha.</li>
+<li>Si pescaste una idea, ¡preparáte para tu seminario!</li>
+<li>Si ya preparaste tu seminario, no olvides contactar a un organizador para fijar una fecha.</li>
 </ul>
 <p><em>Nota:</em> Esta versión es una beta inicial. Cualquier sugerencia o reporte de errores es bienvenido para mejorar la experiencia.</p>
 
