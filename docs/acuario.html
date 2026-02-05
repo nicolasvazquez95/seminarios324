@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.26">
+<meta name="generator" content="quarto-1.8.27">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -37,14 +37,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b758ccaa5987ceb1b75504551e579abf.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-4d9afe2b8d18ee9fa5d0d57b5ed4214d.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-d1897f967d4dc882e6c3c4aa210b578e.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-24772959a0e306aba8d7698078628ce7.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-d1897f967d4dc882e6c3c4aa210b578e.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-3c8abd6b8e10778c93b882e08270acba.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-a775f6853155e940c0755d0d21be6c99.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-3c8abd6b8e10778c93b882e08270acba.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -276,7 +276,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./acuario.html" aria-current="page"> 
-<span class="menu-text">Acuario v0.1</span></a>
+<span class="menu-text">Ideario v0.1</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
@@ -388,16 +388,16 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="app-seminarios">
   
-  <h3 class="anchored">🎣 Ideas Flotando (Haz clic para pescar una)</h3>
+  <h3 class="anchored">🎣 Ideas Flotando (Haz clic para capturar una)</h3>
   <div id="acuario">
-    <p style="padding:20px; color:#888;">Buscando peces en el agua...</p>
+    <p style="padding:20px; color:#888;">Cargando ideas...</p>
   </div>
 
   <div class="controles">
     <strong>¡Tira una idea!</strong>
     <input type="text" id="input-idea" placeholder="Ej: Agujeros negros..." style="flex-grow:1; padding: 8px;">
     <input type="text" id="input-autor" placeholder="Tu nombre" style="width: 150px; padding: 8px;">
-    <button class="btn-lanzar" onclick="lanzarIdea()">Lanzar al agua</button>
+    <button class="btn-lanzar" onclick="lanzarIdea()">Lanzar</button>
   </div>
 
   <h3 class="anchored">🕸️ Ideas ya asignadas (En preparación)</h3>
@@ -490,7 +490,7 @@ function crearPez(data) {
 function crearItemAtrapado(data) {
   const div = document.createElement('div');
   div.className = 'item-atrapado';
-  div.innerHTML = `<strong>${data.texto}</strong> <span style="color:#888; font-size:0.9em;">(Pescado por alguien, idea de ${data.autor})</span>`;
+  div.innerHTML = `<strong>${data.texto}</strong> <span style="color:#888; font-size:0.9em;">(Capturado por alguien, idea de ${data.autor})</span>`;
   document.getElementById('red').appendChild(div);
 }
 
@@ -548,7 +548,7 @@ function pescarIdea(id, texto) {
   if (!confirm(`¿Quieres tomar el tema "${texto}" para tu seminario?`)) return;
 
   // Feedback visual inmediato
-  alert("¡Pescado! Actualizando base de datos...");
+  alert("¡Capturado! Actualizando base de datos...");
   
   // Enviamos a Google Sheets
   // Usamos mode: 'no-cors' para evitar problemas con la respuesta de Google
@@ -576,7 +576,7 @@ function lanzarIdea() {
     autor: autInput.value || "Anónimo"
   };
 
-  txtInput.value = "Enviando al agua...";
+  txtInput.value = "Enviando a la nube...";
   
   fetch(API_URL, {
     method: 'POST',
@@ -594,18 +594,18 @@ function lanzarIdea() {
 cargarDatos();
 
 </script>
-<section id="acuario-v0.1" class="level2">
-<h2 class="anchored" data-anchor-id="acuario-v0.1">Acuario v0.1</h2>
+<section id="ideario-v0.1" class="level2">
+<h2 class="anchored" data-anchor-id="ideario-v0.1">Ideario v0.1</h2>
 <section id="instrucciones-de-uso" class="level3">
 <h3 class="anchored" data-anchor-id="instrucciones-de-uso">Instrucciones de uso</h3>
-<p>El acuario de ideas es una heramienta interactiva para que todos los participantes de los seminarios puedan proponer y seleccionar temas para las presentaciones.</p>
+<p>El ideario es una heramienta interactiva para que todos los participantes de los seminarios puedan proponer y seleccionar temas para las presentaciones.</p>
 <ul>
-<li>Las ideas del inconsciente colectivo “flotan” en el acuario.</li>
-<li>Cualquiera puede subir ideas nuevas a la pileta.</li>
-<li>Si alguien ve una idea que le parece interesante o se siente capaz de presentarla, puede pescarla haciendo clic sobre ella.</li>
-<li>Las ideas pescadas se mueven a una “red de ideas asignadas” para que todos vean qué temas ya están tomados.</li>
-<li>Si tenés una idea genial, ¡lánzala al agua!</li>
-<li>Si pescaste una idea, ¡preparáte para tu seminario!</li>
+<li>Las ideas del inconsciente colectivo “flotan”.</li>
+<li>Cualquiera puede subir ideas nuevas.</li>
+<li>Si alguien ve una idea que le parece interesante o se siente capaz de presentarla, puede capturarla haciendo clic sobre ella.</li>
+<li>Las ideas capturadas se mueven a una “red de ideas asignadas” para que todos vean qué temas ya están tomados.</li>
+<li>Si tenés una idea genial, ¡lánzala!</li>
+<li>Si capturaste una idea, ¡preparáte para tu seminario!</li>
 <li>Si ya preparaste tu seminario, no olvides contactar a un organizador para fijar una fecha.</li>
 </ul>
 <p><em>Nota:</em> Esta versión es una beta inicial. Cualquier sugerencia o reporte de errores es bienvenido para mejorar la experiencia.</p>

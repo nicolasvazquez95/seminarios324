@@ -75,16 +75,16 @@
 
 <div id="app-seminarios">
   
-  <h3>🎣 Ideas Flotando (Haz clic para pescar una)</h3>
+  <h3>🎣 Ideas Flotando (Haz clic para capturar una)</h3>
   <div id="acuario">
-    <p style="padding:20px; color:#888;">Buscando peces en el agua...</p>
+    <p style="padding:20px; color:#888;">Cargando ideas...</p>
   </div>
 
   <div class="controles">
     <strong>¡Tira una idea!</strong>
     <input type="text" id="input-idea" placeholder="Ej: Agujeros negros..." style="flex-grow:1; padding: 8px;">
     <input type="text" id="input-autor" placeholder="Tu nombre" style="width: 150px; padding: 8px;">
-    <button class="btn-lanzar" onclick="lanzarIdea()">Lanzar al agua</button>
+    <button class="btn-lanzar" onclick="lanzarIdea()">Lanzar</button>
   </div>
 
   <h3>🕸️ Ideas ya asignadas (En preparación)</h3>
@@ -177,7 +177,7 @@ function crearPez(data) {
 function crearItemAtrapado(data) {
   const div = document.createElement('div');
   div.className = 'item-atrapado';
-  div.innerHTML = `<strong>${data.texto}</strong> <span style="color:#888; font-size:0.9em;">(Pescado por alguien, idea de ${data.autor})</span>`;
+  div.innerHTML = `<strong>${data.texto}</strong> <span style="color:#888; font-size:0.9em;">(Capturado por alguien, idea de ${data.autor})</span>`;
   document.getElementById('red').appendChild(div);
 }
 
@@ -235,7 +235,7 @@ function pescarIdea(id, texto) {
   if (!confirm(`¿Quieres tomar el tema "${texto}" para tu seminario?`)) return;
 
   // Feedback visual inmediato
-  alert("¡Pescado! Actualizando base de datos...");
+  alert("¡Capturado! Actualizando base de datos...");
   
   // Enviamos a Google Sheets
   // Usamos mode: 'no-cors' para evitar problemas con la respuesta de Google
@@ -263,7 +263,7 @@ function lanzarIdea() {
     autor: autInput.value || "Anónimo"
   };
 
-  txtInput.value = "Enviando al agua...";
+  txtInput.value = "Enviando a la nube...";
   
   fetch(API_URL, {
     method: 'POST',
@@ -283,16 +283,16 @@ cargarDatos();
 </script>
 ```
 
-## Acuario v0.1
+## Ideario v0.1
 ### Instrucciones de uso
-El acuario de ideas es una heramienta interactiva para que todos los participantes de los seminarios puedan proponer y seleccionar temas para las presentaciones.
+El ideario es una heramienta interactiva para que todos los participantes de los seminarios puedan proponer y seleccionar temas para las presentaciones.
 
-- Las ideas del inconsciente colectivo "flotan" en el acuario.
-- Cualquiera puede subir ideas nuevas a la pileta.
-- Si alguien ve una idea que le parece interesante o se siente capaz de presentarla, puede pescarla haciendo clic sobre ella.
-- Las ideas pescadas se mueven a una "red de ideas asignadas" para que todos vean qué temas ya están tomados.
-- Si tenés una idea genial, ¡lánzala al agua!
-- Si pescaste una idea, ¡preparáte para tu seminario!
+- Las ideas del inconsciente colectivo "flotan".
+- Cualquiera puede subir ideas nuevas.
+- Si alguien ve una idea que le parece interesante o se siente capaz de presentarla, puede capturarla haciendo clic sobre ella.
+- Las ideas capturadas se mueven a una "red de ideas asignadas" para que todos vean qué temas ya están tomados.
+- Si tenés una idea genial, ¡lánzala!
+- Si capturaste una idea, ¡preparáte para tu seminario!
 - Si ya preparaste tu seminario, no olvides contactar a un organizador para fijar una fecha.
 
 *Nota:* Esta versión es una beta inicial. Cualquier sugerencia o reporte de errores es bienvenido para mejorar la experiencia.
