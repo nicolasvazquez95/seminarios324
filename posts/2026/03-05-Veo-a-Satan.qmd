@@ -2,7 +2,7 @@
 title: "Veo a Satan caer como el relámpago"
 subtitle: "Una teoría antropológica y religiosa de la violencia humana"
 author: "Nicolás Vazquez"
-date: "2026-03-05"
+date: "2026-12-05"
 categories: [2026, marzo, antropología, religión]
 ---
 
@@ -10,11 +10,11 @@ categories: [2026, marzo, antropología, religión]
 
 ## Resumen
 
-<!-- 👉Link a la presentación [aquí](https://docs.google.com/presentation/d/1XtqnXtpfevSZp07fMZZa7KxHEFvTC-_LKk5I9Dl7h1Q/edit). -->
+Para este seminario vamos a hablar de los primeros tres capítulos del libro del antropólogo y exégeta René Girard, "Veo a Satán caer como el relámpago". En esta primera parte, se van a comentar los puntos clave en los que se basa su teoría: el concepto del deseo mimético como un elemento irreductible de la naturaleza humana, el mecanismo del chivo expiatorio como el redentor de la violencia generalizada en las comunidades, y cómo estos dos elementos se concentran en la figura de Satán, basados en ejemplos del Antiguo y el Nuevo Testamento.
 
 ## Datos
 
-**Hora:** 14:00 hrs
+**Hora:** 13:30 hrs
 
 **Lugar:** Sala de Física Teórica, FAMAF
 
@@ -24,7 +24,9 @@ _Seminario #14_
 - Chat con el que armé la presentación en [NotebookLM](https://notebooklm.google.com/notebook/77ac988b-cbd6-4948-81fe-7b0572650d62)
 - Documental ["Things Hidden: The life and Legacy of René Girard" (disponible en YouTube)](https://www.youtube.com/watch?v=L-vB1HaBsog)
 - Artículo de [Nature](doi.org/10.1038/s41467-025-62452-z) sobre el declive de las religiones en todo el mundo.
-- [Entrevista a Peter Thiel hablando sobre la teoría de Girard](https://youtu.be/esk7W9Jowtc?si=qXZxd4pXbwHkV5FV)
+- [Entrevista a Peter Thiel hablando sobre Facebook y la teoría de Girard](https://youtu.be/esk7W9Jowtc?si=qXZxd4pXbwHkV5FV)
+
+Para obtener el libro, contactarse con Nico :)
 
 ## El evento
 
