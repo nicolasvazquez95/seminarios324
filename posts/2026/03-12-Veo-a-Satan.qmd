@@ -2,7 +2,7 @@
 title: "Veo a Satan caer como el relámpago"
 subtitle: "Una teoría antropológica y religiosa de la violencia humana"
 author: "Nicolás Vazquez"
-date: "2026-12-05"
+date: "2026-03-12"
 categories: [2026, marzo, antropología, religión]
 ---
 
