@@ -24,8 +24,6 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
 ## 📢 Próximo Seminario
 
 ::: {.callout-important appearance="simple"}
-
-
 **Título:** *Título de seminario a confirmar*
 
 **Fecha y Hora:** Jueves 19 de marzo, 14:00 hs
@@ -52,4 +50,4 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
 
 Sumate a la **lista de difusión** para estar atento/a al próximo seminario (hacé click en el QR o escanealo con el celular):
 
-[![](assets/img\qr-form.jpeg "QR"){fig-align="center" width="281"}](https://forms.gle/rpGbTqEZgYM9etnn8)
+[![](assets/img/qr-form.jpeg "QR"){fig-align="center" width="281"}](https://forms.gle/rpGbTqEZgYM9etnn8)

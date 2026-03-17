@@ -6,7 +6,7 @@ date: "2026-03-12"
 categories: [2026, marzo, antropología, religión]
 ---
 
-![](/assets/posts\front\Veo_a_Satan.jpeg){fig-align="center"}
+![](/assets/posts/front/Veo_a_Satan.jpeg){fig-align="center"}
 
 ## Resumen
 
@@ -22,13 +22,13 @@ Para este seminario vamos a hablar de los primeros tres capítulos del libro del
 
 ## Otros recursos
 
--   Chat con el que armé la presentación en [NotebookLM](https://notebooklm.google.com/notebook/77ac988b-cbd6-4948-81fe-7b0572650d62)
--   Documental ["Things Hidden: The life and Legacy of René Girard" (disponible en YouTube)](https://www.youtube.com/watch?v=L-vB1HaBsog)
--   Artículo de [Nature](doi.org/10.1038/s41467-025-62452-z) sobre el declive de las religiones en todo el mundo.
--   [Entrevista a Peter Thiel hablando sobre Facebook y la teoría de Girard](https://youtu.be/esk7W9Jowtc?si=qXZxd4pXbwHkV5FV)
+- Chat con el que armé la presentación en [NotebookLM](https://notebooklm.google.com/notebook/77ac988b-cbd6-4948-81fe-7b0572650d62)
+- Documental ["Things Hidden: The life and Legacy of René Girard" (disponible en YouTube)](https://www.youtube.com/watch?v=L-vB1HaBsog)
+- Artículo de [Nature](doi.org/10.1038/s41467-025-62452-z) sobre el declive de las religiones en todo el mundo.
+- [Entrevista a Peter Thiel hablando sobre Facebook y la teoría de Girard](https://youtu.be/esk7W9Jowtc?si=qXZxd4pXbwHkV5FV)
 
 Para obtener el libro, contactarse con Nico :)
 
 ## El evento
 
-![](/assets/posts\photos\2026-03-13.jpeg){fig-align="center" width="960"}
+![](/assets/posts/photos/2026-03-13.jpeg){fig-align="center" width="960"}
