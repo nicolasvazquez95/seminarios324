@@ -21,11 +21,21 @@ lang: es
 
 Aquí vas a encontrar la información sobre el próximo seminario y un archivo de los seminarios anteriores.
 
-## 📢 Próximo seminario
+## 📢 Próximo Seminario
 
-Los becarios/as están de vacaciones. Regresamos en febrero de 2026!
+::: {.callout-important appearance="simple"}
 
-![](assets/mafalda_playa.gif){fig-align="center"}
+
+**Título:** *Título de seminario a confirmar*
+
+**Fecha y Hora:** Jueves 19 de marzo, 14:00 hs
+
+**Lugar:** Sala de Física Teórica, FAMAF
+
+**Expositor/a:** Nicolás Amado (IFEG-FAMAF)
+
+**Resumen:** *Estén atentos para más detalles sobre el próximo seminario*
+:::
 
 ## 🗂️ Últimos seminarios
 
