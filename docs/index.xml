@@ -10,7 +10,52 @@
 <atom:link href="https://nicolasvazquez95.github.io/seminarios324/index.xml" rel="self" type="application/rss+xml"/>
 <description>Seminarios de la 324</description>
 <generator>quarto-1.9.33</generator>
-<lastBuildDate>Thu, 12 Mar 2026 03:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Mar 2026 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>Insectos, arañas, y la app iNaturalist</title>
+  <dc:creator>Nicolás Vazquez</dc:creator>
+  <link>https://nicolasvazquez95.github.io/seminarios324/posts/2026/03-19-Insectos.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<!-- ![](/assets/posts/front/Veo_a_Satan.jpeg){fig-align="center"} -->
+<section id="resumen" class="level2">
+<h2 class="anchored" data-anchor-id="resumen">Resumen</h2>
+<p>Un breve resumen de qué es la app de Argentinat, el nodo argentino de la red iNaturalist, donde se puede contribuir al registro, geolocalizacion e identificación de la biodiversidad argentina. Además hablaré de un poco acerca de mi fascinación con los insectos y arácnidos, y la fotografía macro.</p>
+</section>
+<section id="datos" class="level2">
+<h2 class="anchored" data-anchor-id="datos">Datos</h2>
+<p><strong>Hora:</strong> 14:00 hrs</p>
+<p><strong>Lugar:</strong> Oficina 324, FAMAF</p>
+<p><em>Seminario #15</em></p>
+<!-- ## Otros recursos
+
+- Chat con el que armé la presentación en [NotebookLM](https://notebooklm.google.com/notebook/77ac988b-cbd6-4948-81fe-7b0572650d62)
+- Documental ["Things Hidden: The life and Legacy of René Girard" (disponible en YouTube)](https://www.youtube.com/watch?v=L-vB1HaBsog)
+- Artículo de [Nature](doi.org/10.1038/s41467-025-62452-z) sobre el declive de las religiones en todo el mundo.
+- [Entrevista a Peter Thiel hablando sobre Facebook y la teoría de Girard](https://youtu.be/esk7W9Jowtc?si=qXZxd4pXbwHkV5FV)
+
+Para obtener el libro, contactarse con Nico :)
+
+## El evento
+
+![](/assets/posts/photos/2026-03-13.jpeg){fig-align="center" width="960"} -->
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a> ]]></description>
+  <category>2026</category>
+  <category>marzo</category>
+  <category>naturaleza</category>
+  <category>biología</category>
+  <guid>https://nicolasvazquez95.github.io/seminarios324/posts/2026/03-19-Insectos.html</guid>
+  <pubDate>Thu, 19 Mar 2026 03:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Veo a Satán caer como el relámpago</title>
   <dc:creator>Nicolás Vazquez</dc:creator>

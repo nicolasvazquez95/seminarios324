@@ -1,0 +1,34 @@
+---
+title: "Insectos, arañas, y la app iNaturalist"
+# subtitle: "Una teoría antropológica y religiosa de la violencia humana"
+author: "Nicolás Vazquez"
+date: "2026-03-19"
+categories: [2026, marzo, naturaleza, biología]
+---
+
+<!-- ![](/assets/posts/front/Veo_a_Satan.jpeg){fig-align="center"} -->
+
+## Resumen
+
+Un breve resumen de qué es la app de Argentinat, el nodo argentino de la red iNaturalist, donde se puede contribuir al registro, geolocalizacion e identificación de la biodiversidad argentina. Además hablaré de un poco acerca de mi fascinación con los insectos y arácnidos, y la fotografía macro.
+
+## Datos
+
+**Hora:** 14:00 hrs
+
+**Lugar:** Oficina 324, FAMAF
+
+*Seminario #15*
+
+<!-- ## Otros recursos
+
+- Chat con el que armé la presentación en [NotebookLM](https://notebooklm.google.com/notebook/77ac988b-cbd6-4948-81fe-7b0572650d62)
+- Documental ["Things Hidden: The life and Legacy of René Girard" (disponible en YouTube)](https://www.youtube.com/watch?v=L-vB1HaBsog)
+- Artículo de [Nature](doi.org/10.1038/s41467-025-62452-z) sobre el declive de las religiones en todo el mundo.
+- [Entrevista a Peter Thiel hablando sobre Facebook y la teoría de Girard](https://youtu.be/esk7W9Jowtc?si=qXZxd4pXbwHkV5FV)
+
+Para obtener el libro, contactarse con Nico :)
+
+## El evento
+
+![](/assets/posts/photos/2026-03-13.jpeg){fig-align="center" width="960"} -->
