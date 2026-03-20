@@ -1,7 +1,7 @@
 ---
 title: "Insectos, arañas, y la app iNaturalist"
 # subtitle: "Una teoría antropológica y religiosa de la violencia humana"
-author: "Nicolás Vazquez"
+author: "Nicolás Amado"
 date: "2026-03-19"
 categories: [2026, marzo, naturaleza, biología]
 ---
