@@ -10,7 +10,52 @@
 <atom:link href="https://nicolasvazquez95.github.io/seminarios324/index.xml" rel="self" type="application/rss+xml"/>
 <description>Seminarios de la 324</description>
 <generator>quarto-1.9.33</generator>
-<lastBuildDate>Thu, 19 Mar 2026 03:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 09 Apr 2026 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>Sarri sarri</title>
+  <dc:creator>Matías Bettera</dc:creator>
+  <link>https://nicolasvazquez95.github.io/seminarios324/posts/2026/04-09-Sarri-sarri.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://nicolasvazquez95.github.io/seminarios324/assets/posts/photos/2026-04-09.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" width="1024"></p>
+</figure>
+</div>
+<section id="resumen" class="level2">
+<h2 class="anchored" data-anchor-id="resumen">Resumen</h2>
+<p>A partir de la canción “Sarri Sarri” de la banda de rock vasco Kortatu, se cuenta una anécdota carcelaria y del conflicto vasco. Se hace necesario un breve comentario sobre el conflicto vasco. Por último, con algunos ejemplos podemos ver de dónde viene y a dónde va el rock vasco.</p>
+</section>
+<section id="datos" class="level2">
+<h2 class="anchored" data-anchor-id="datos">Datos</h2>
+<p><strong>Hora:</strong> 14:00 hrs</p>
+<p><strong>Lugar:</strong> Sala de Física Teórica, FAMAF</p>
+<p><em>Seminario #16</em></p>
+</section>
+<section id="el-evento" class="level2">
+<h2 class="anchored" data-anchor-id="el-evento">El evento</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://nicolasvazquez95.github.io/seminarios324/assets/posts/photos/2026-04-09_2.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" width="1024"></p>
+</figure>
+</div>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a> ]]></description>
+  <category>2026</category>
+  <category>música</category>
+  <category>historia</category>
+  <category>conflicto vasco</category>
+  <guid>https://nicolasvazquez95.github.io/seminarios324/posts/2026/04-09-Sarri-sarri.html</guid>
+  <pubDate>Thu, 09 Apr 2026 03:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Insectos, arañas, y la app iNaturalist</title>
   <dc:creator>Nicolás Amado</dc:creator>
