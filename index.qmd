@@ -24,15 +24,20 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
 ## 📢 Próximo Seminario
 
 ::: {.callout-important appearance="simple"}
-**Título:** *Título de seminario a confirmar*
+
+
+**Título:** *Un poco de Historia*
 
 **Fecha y Hora:** Jueves 16 de abril, 14:00 hs
 
 **Lugar:** Sala de Física Teórica, FAMAF
 
-**Expositor/a:** Diego Montes (Dieguito) - CIEM-FAMAF
+**Expositor/a:** Diego Monetes (CIEM-FAMAF)
 
-**Resumen:** *Estén atentos para más detalles sobre el próximo seminario*
+**Resumen:** 
+
+Muchos seguramente hemos visto en nuestra infancia “dibujitos” como Dragon Ball, Pokemon, Los Caballeros del Zodiaco, etc, sin darnos cuenta de que pertenecian a un conjunto de animaciones de otro continente, de Japón, el llamado país del sol naciente. 
+Entonces, ¿cómo fué que comenzó esta industria?: sus orígenes datan de la segunda década del siglo XX, con artistas como Ōten Shimokawa, los cuales no tenian una tarea fácil, dado que los insumos importantes para la animación tenían altos costos, por ello debieron utilizar otras técnicas para realizar su trabajo. Con el tiempo, grandes estudios de animación como Toey o Mushi, entraron en escena, causando el despegue definitivo de la industria en la televisión japonesa. De allí, con los años, llegaron a nuestro lado del mundo, marcando la infancia de muchos, y hasta hoy en dia, el género es altamente consumido globalmente, con historias para todos los gustos.
 :::
 
 ## 🗂️ Últimos seminarios
@@ -50,4 +55,4 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
 
 Sumate a la **lista de difusión** para estar atento/a al próximo seminario (hacé click en el QR o escanealo con el celular):
 
-[![](assets/img/qr-form.jpeg "QR"){fig-align="center" width="281"}](https://forms.gle/rpGbTqEZgYM9etnn8)
+[![](assets/img\qr-form.jpeg "QR"){fig-align="center" width="281"}](https://forms.gle/rpGbTqEZgYM9etnn8)
