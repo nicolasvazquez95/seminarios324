@@ -6,7 +6,7 @@ date: "2026-04-09"
 categories: [2026, música, historia, conflicto vasco]
 ---
 
-![](/assets/posts/photos/2026-04-09.jpeg){fig-align="center" width="1024"}
+![](/assets/posts/front/SarriSarri.png){fig-align="center" width="1024"}
 
 ## Resumen
 
@@ -20,6 +20,8 @@ A partir de la canción "Sarri Sarri" de la banda de rock vasco Kortatu, se cuen
 
 *Seminario #16*
 
+[Link a la presentación en Google Slides](https://docs.google.com/presentation/d/1a2UHyeMwrs7N-2Q135dtPipdoS1XXz0pWTMtKfCmAh8/edit?usp=sharing)
+
 ## El evento
 
-![](/assets/posts/photos/2026-04-09_2.jpeg){fig-align="center" width="1024"}
+![](/assets/posts/photos/2026-04-09.jpeg){fig-align="center" width="1024"}

@@ -10,7 +10,41 @@
 <atom:link href="https://nicolasvazquez95.github.io/seminarios324/archivo.xml" rel="self" type="application/rss+xml"/>
 <description>Seminarios de la 324</description>
 <generator>quarto-1.9.33</generator>
-<lastBuildDate>Thu, 09 Apr 2026 03:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 16 Apr 2026 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>Anime: Un poco de historia</title>
+  <dc:creator>Diego Montes</dc:creator>
+  <link>https://nicolasvazquez95.github.io/seminarios324/posts/2026/04-16-Un-poco-de-historia.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="resumen" class="level2">
+<h2 class="anchored" data-anchor-id="resumen">Resumen</h2>
+<p>Muchos seguramente hemos visto en nuestra infancia “dibujitos” como Dragon Ball, Pokemon, Los Caballeros del Zodiaco, etc, sin darnos cuenta de que pertenecian a un conjunto de animaciones de otro continente, de Japón, el llamado país del sol naciente. Entonces, ¿cómo fué que comenzó esta industria?: sus orígenes datan de la segunda década del sigo XX, con artistas como Ōten Shimokawa, los cuales no tenian una tarea facil, dado que los insumos importantes para la animación tenían altos costos, por ello debieron utilizar otras tecnicas para realizar su trabajo. Con el tiempo, grandes estudios de animación como Toey o Mushi, entraron en escena, causando el despegue definitivo de la industria en la televisión japonesa. De allí, con los años, llegaron a nuestro lado del mundo, marcando la infancia de muchos, y hasta hoy en dia, el genero es altamente consumido globalmente, con historias para todos los gustos.</p>
+</section>
+<section id="datos" class="level2">
+<h2 class="anchored" data-anchor-id="datos">Datos</h2>
+<p><strong>Hora:</strong> 14:00 hrs</p>
+<p><strong>Lugar:</strong> Sala de Física Teórica, FAMAF</p>
+<p><em>Seminario #17</em></p>
+</section>
+<section id="el-evento" class="level2">
+<h2 class="anchored" data-anchor-id="el-evento">El evento</h2>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a> ]]></description>
+  <category>2026</category>
+  <category>historia</category>
+  <category>anime</category>
+  <guid>https://nicolasvazquez95.github.io/seminarios324/posts/2026/04-16-Un-poco-de-historia.html</guid>
+  <pubDate>Thu, 16 Apr 2026 03:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Sarri sarri</title>
   <dc:creator>Matías Bettera</dc:creator>
@@ -24,7 +58,7 @@
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://nicolasvazquez95.github.io/seminarios324/assets/posts/photos/2026-04-09.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" width="1024"></p>
+<p><img src="https://nicolasvazquez95.github.io/seminarios324/assets/posts/front/SarriSarri.png" class="img-fluid quarto-figure quarto-figure-center figure-img" width="1024"></p>
 </figure>
 </div>
 <section id="resumen" class="level2">
@@ -36,12 +70,13 @@
 <p><strong>Hora:</strong> 14:00 hrs</p>
 <p><strong>Lugar:</strong> Sala de Física Teórica, FAMAF</p>
 <p><em>Seminario #16</em></p>
+<p><a href="https://docs.google.com/presentation/d/1a2UHyeMwrs7N-2Q135dtPipdoS1XXz0pWTMtKfCmAh8/edit?usp=sharing">Link a la presentación en Google Slides</a></p>
 </section>
 <section id="el-evento" class="level2">
 <h2 class="anchored" data-anchor-id="el-evento">El evento</h2>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://nicolasvazquez95.github.io/seminarios324/assets/posts/photos/2026-04-09_2.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" width="1024"></p>
+<p><img src="https://nicolasvazquez95.github.io/seminarios324/assets/posts/photos/2026-04-09.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" width="1024"></p>
 </figure>
 </div>
 
