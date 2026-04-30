@@ -6,11 +6,12 @@ date: "2026-04-23"
 categories: [2026, deportes, estadística]
 ---
 
+![![](images/paste-1.jpeg)](/assets/posts/preview/ElijoCreer.jpeg){fig-align="center" width="480"}
+
+
 ## Resumen
 
 ¿Cuántas veces escuchamos que los penales son "cuestión de suerte" o que el que patea primero ya tiene medio partido ganado? En esta charla vamos a bajar a tierra el mito. Usando los datos de los Mundiales (desde el 82 hasta Qatar), vamos a ver qué hay de cierto en las teorías que todos repetimos en el asado. ¿Realmente hay ventaja por patear primero? ¿Es casualidad que Alemania y Argentina ganen casi siempre? Vamos a chusmear un poco los números históricos para entender si el azar existe o si, al final del día, el que "elige creer" tiene alguna razón estadística de su lado.
-
-![](/assets/posts/preview/ElijoCreer.jpeg){fig-align="center" width="480"}
 
 ## Datos
 
@@ -21,3 +22,5 @@ categories: [2026, deportes, estadística]
 *Seminario #18*
 
 ## El evento
+
+![](/assets/posts/photos/2026-04-23.jpeg){fig-align="center"}

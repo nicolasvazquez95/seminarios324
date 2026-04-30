@@ -6,6 +6,8 @@ date: "2026-04-30"
 categories: [2026, historia, deportes, URSS]
 ---
 
+![](/assets/posts/front/Gimnastas_sovieticos.png){fig-align="center" width="853"}
+
 ## Resumen
 
 En este seminario hablaremos sobre una historia de poder sistémico y los orígenes de la ciencia aplicada al rendimiento humano. Analizaremos la optimización del cuerpo como una estructura técnica y cómo la medición constante se volvió el eje central para alcanzar hitos que parecían imposibles. Esta maquinaria produjo campeones mediante métodos públicos que el resto del mundo prefirió ignorar. Todo comenzó en 1952, marcando un dominio que se mantuvo firme durante 40 años. La pregunta es: ¿qué ocurre cuando se decide fabricar atletas con la misma precisión con la que se ensambla un computador?
@@ -17,5 +19,7 @@ En este seminario hablaremos sobre una historia de poder sistémico y los oríge
 **Lugar:** Sala de Física Teórica, FAMAF
 
 *Seminario #19*
+
+[Link a la presentación en Google Slides](https://docs.google.com/presentation/d/1zlKSOzCQH0xTWaK5e9ng34KZjMlOF7Nv/edit?slide=id.p1#slide=id.p1)
 
 ## El evento

@@ -30,10 +30,9 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
 
 **Lugar:** Sala de Física Teórica, FAMAF
 
-**Expositor/a:** 
+**Expositor/a:**
 
 **Resumen:** Estén atentos a las novedades!
-
 :::
 
 ## 🗂️ Últimos seminarios
@@ -51,4 +50,4 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
 
 Sumate a la **lista de difusión** para estar atento/a al próximo seminario (hacé click en el QR o escanealo con el celular):
 
-[![](assets/img\qr-form.jpeg "QR"){fig-align="center" width="281"}](https://forms.gle/rpGbTqEZgYM9etnn8)
+[![](assets/img/qr-form.jpeg){fig-align="center" width="240"}](https://docs.google.com/forms/d/e/1FAIpQLSdTKcAS0i5Snq166SVoqVkc_zvWyN1tZJISs23ZMwVwc2xtJw/viewform?usp=sharing&ouid=114106579434961220855)
