@@ -10,7 +10,81 @@
 <atom:link href="https://nicolasvazquez95.github.io/seminarios324/index.xml" rel="self" type="application/rss+xml"/>
 <description>Seminarios de la 324</description>
 <generator>quarto-1.9.33</generator>
-<lastBuildDate>Thu, 16 Apr 2026 03:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 30 Apr 2026 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>La máquina de oro rojo</title>
+  <dc:creator>Ángelo Villegas</dc:creator>
+  <link>https://nicolasvazquez95.github.io/seminarios324/posts/2026/04-30-La-maquina-de-oro-rojo.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="resumen" class="level2">
+<h2 class="anchored" data-anchor-id="resumen">Resumen</h2>
+<p>En este seminario hablaremos sobre una historia de poder sistémico y los orígenes de la ciencia aplicada al rendimiento humano. Analizaremos la optimización del cuerpo como una estructura técnica y cómo la medición constante se volvió el eje central para alcanzar hitos que parecían imposibles. Esta maquinaria produjo campeones mediante métodos públicos que el resto del mundo prefirió ignorar. Todo comenzó en 1952, marcando un dominio que se mantuvo firme durante 40 años. La pregunta es: ¿qué ocurre cuando se decide fabricar atletas con la misma precisión con la que se ensambla un computador?</p>
+</section>
+<section id="datos" class="level2">
+<h2 class="anchored" data-anchor-id="datos">Datos</h2>
+<p><strong>Hora:</strong> 13:45 hrs</p>
+<p><strong>Lugar:</strong> Sala de Física Teórica, FAMAF</p>
+<p><em>Seminario #19</em></p>
+</section>
+<section id="el-evento" class="level2">
+<h2 class="anchored" data-anchor-id="el-evento">El evento</h2>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a> ]]></description>
+  <category>2026</category>
+  <category>historia</category>
+  <category>deportes</category>
+  <category>URSS</category>
+  <guid>https://nicolasvazquez95.github.io/seminarios324/posts/2026/04-30-La-maquina-de-oro-rojo.html</guid>
+  <pubDate>Thu, 30 Apr 2026 03:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Elijo creer</title>
+  <dc:creator>Rocío Fonseca</dc:creator>
+  <link>https://nicolasvazquez95.github.io/seminarios324/posts/2026/04-23-Ro.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="resumen" class="level2">
+<h2 class="anchored" data-anchor-id="resumen">Resumen</h2>
+<p>¿Cuántas veces escuchamos que los penales son “cuestión de suerte” o que el que patea primero ya tiene medio partido ganado? En esta charla vamos a bajar a tierra el mito. Usando los datos de los Mundiales (desde el 82 hasta Qatar), vamos a ver qué hay de cierto en las teorías que todos repetimos en el asado. ¿Realmente hay ventaja por patear primero? ¿Es casualidad que Alemania y Argentina ganen casi siempre? Vamos a chusmear un poco los números históricos para entender si el azar existe o si, al final del día, el que “elige creer” tiene alguna razón estadística de su lado.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://nicolasvazquez95.github.io/seminarios324/assets/posts/preview/ElijoCreer.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" width="480"></p>
+</figure>
+</div>
+</section>
+<section id="datos" class="level2">
+<h2 class="anchored" data-anchor-id="datos">Datos</h2>
+<p><strong>Hora:</strong> 13:45 hrs</p>
+<p><strong>Lugar:</strong> Sala de Física Teórica, FAMAF</p>
+<p><em>Seminario #18</em></p>
+</section>
+<section id="el-evento" class="level2">
+<h2 class="anchored" data-anchor-id="el-evento">El evento</h2>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a> ]]></description>
+  <category>2026</category>
+  <category>deportes</category>
+  <category>estadística</category>
+  <guid>https://nicolasvazquez95.github.io/seminarios324/posts/2026/04-23-Ro.html</guid>
+  <pubDate>Thu, 23 Apr 2026 03:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Anime: Un poco de historia</title>
   <dc:creator>Diego Montes</dc:creator>
