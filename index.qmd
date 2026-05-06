@@ -24,15 +24,16 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
 ## 📢 Próximo Seminario
 
 ::: {.callout-important appearance="simple"}
-**Título:** Elijo creer
+
+**Título:** Unificando un país
 
 **Fecha y Hora:** Jueves 7 de mayo
 
 **Lugar:** Sala de Física Teórica, FAMAF
 
-**Expositor/a:**
+**Expositor/a:** Judith Amira Guzmán
 
-**Resumen:** Estén atentos a las novedades!
+**Resumen:** Cuando la guerra era parte de la vida cotidiana, tres tipos decidieron que ya era suficiente. Cada uno a su manera, se dedicaron a poner orden en el desastre. Desde el caos del Sengoku hasta la paz de Edo, esta es la historia de cómo tres personajes lograron algo que parecía imposible: unificar Japón.
 :::
 
 ## 🗂️ Últimos seminarios
