@@ -25,15 +25,16 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
 
 ::: {.callout-important appearance="simple"}
 
-**Título:** Unificando un país
+**Título:** Cuando el río suena... las hijas de Gould y otras tragedias en la astronomía argentina
 
-**Fecha y Hora:** Jueves 7 de mayo
+**Fecha y Hora:** Jueves 14 de mayo
 
 **Lugar:** Sala de Física Teórica, FAMAF
 
-**Expositor/a:** Judith Amira Guzmán
+**Expositor/a:** Lic. RVV 
 
-**Resumen:** Cuando la guerra era parte de la vida cotidiana, tres tipos decidieron que ya era suficiente. Cada uno a su manera, se dedicaron a poner orden en el desastre. Desde el caos del Sengoku hasta la paz de Edo, esta es la historia de cómo tres personajes lograron algo que parecía imposible: unificar Japón.
+**Resumen:** Detrás de los grandes avances de la astronomía cordobesa también existen historias de pérdida y tragedia. El río, las tormentas y el fuego marcaron para siempre a quienes dedicaron su vida a observar el cielo.
+
 :::
 
 ## 🗂️ Últimos seminarios

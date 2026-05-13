@@ -86,7 +86,8 @@ ul.task-list li input[type="checkbox"] {
 
     const options = {
       valueNames: ['listing-image','listing-author','listing-date','listing-title','listing-subtitle','listing-categories','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
+      page: 18,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
       searchColumns: ["listing-title","listing-author","listing-date","listing-categories"],
     };
 
@@ -385,7 +386,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categorías</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Todas <span class="quarto-category-count">(18)</span></div><div class="category" data-category="MjAyNQ==">2025 <span class="quarto-category-count">(12)</span></div><div class="category" data-category="MjAyNg==">2026 <span class="quarto-category-count">(6)</span></div><div class="category" data-category="YWdvc3Rv">agosto <span class="quarto-category-count">(1)</span></div><div class="category" data-category="YW5pbWU=">anime <span class="quarto-category-count">(1)</span></div><div class="category" data-category="YW50cm9wb2xvZyVDMyVBRGE=">antropología <span class="quarto-category-count">(1)</span></div><div class="category" data-category="YXJ0ZQ==">arte <span class="quarto-category-count">(1)</span></div><div class="category" data-category="YiVDMyVBMXNxdWV0">básquet <span class="quarto-category-count">(1)</span></div><div class="category" data-category="YmlvbG9nJUMzJUFEYQ==">biología <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y2llbmNpYQ==">ciencia <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Y2llbmNpYSUyMGZpY2NpJUMzJUIzbg==">ciencia ficción <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y2luZQ==">cine <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y29uZmxpY3RvJTIwdmFzY28=">conflicto vasco <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZGVwb3J0ZXM=">deportes <span class="quarto-category-count">(4)</span></div><div class="category" data-category="ZGljaWVtYnJl">diciembre <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZXN0YWQlQzMlQURzdGljYQ==">estadística <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZmluYW56YXM=">finanzas <span class="quarto-category-count">(2)</span></div><div class="category" data-category="ZiVDMyVCQXRib2w=">fútbol <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aGlzdG9yaWE=">historia <span class="quarto-category-count">(5)</span></div><div class="category" data-category="aW5nZW5pZXIlQzMlQURh">ingeniería <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aW5zcGlyYWNpJUMzJUIzbg==">inspiración <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aW52ZXJzaW9uZXM=">inversiones <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bGlicm9z">libros <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bWFyem8=">marzo <span class="quarto-category-count">(2)</span></div><div class="category" data-category="bWlzdGVyaW8=">misterio <span class="quarto-category-count">(3)</span></div><div class="category" data-category="bSVDMyVCQXNpY2E=">música <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bmF0dXJhbGV6YQ==">naturaleza <span class="quarto-category-count">(2)</span></div><div class="category" data-category="bm92aWVtYnJl">noviembre <span class="quarto-category-count">(4)</span></div><div class="category" data-category="b2N0dWJyZQ==">octubre <span class="quarto-category-count">(2)</span></div><div class="category" data-category="cHNpY29sb2clQzMlQURh">psicología <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cmVkZXM=">redes <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cmVsaWdpJUMzJUIzbg==">religión <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c2VwdGllbWJyZQ==">septiembre <span class="quarto-category-count">(4)</span></div><div class="category" data-category="dGVsZXZpc2klQzMlQjNu">televisión <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VVJTUw==">URSS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dmlkZW9qdWVnb3M=">videojuegos <span class="quarto-category-count">(2)</span></div><div class="category" data-category="V1dF">WWE <span class="quarto-category-count">(1)</span></div><div class="category" data-category="eW91dHViZQ==">youtube <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categorías</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Todas <span class="quarto-category-count">(19)</span></div><div class="category" data-category="MjAyNQ==">2025 <span class="quarto-category-count">(12)</span></div><div class="category" data-category="MjAyNg==">2026 <span class="quarto-category-count">(7)</span></div><div class="category" data-category="YWdvc3Rv">agosto <span class="quarto-category-count">(1)</span></div><div class="category" data-category="YW5pbWU=">anime <span class="quarto-category-count">(1)</span></div><div class="category" data-category="YW50cm9wb2xvZyVDMyVBRGE=">antropología <span class="quarto-category-count">(1)</span></div><div class="category" data-category="YXJ0ZQ==">arte <span class="quarto-category-count">(1)</span></div><div class="category" data-category="YiVDMyVBMXNxdWV0">básquet <span class="quarto-category-count">(1)</span></div><div class="category" data-category="YmlvbG9nJUMzJUFEYQ==">biología <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y2llbmNpYQ==">ciencia <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Y2llbmNpYSUyMGZpY2NpJUMzJUIzbg==">ciencia ficción <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y2luZQ==">cine <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y29uZmxpY3RvJTIwdmFzY28=">conflicto vasco <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZGVwb3J0ZXM=">deportes <span class="quarto-category-count">(4)</span></div><div class="category" data-category="ZGljaWVtYnJl">diciembre <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZXN0YWQlQzMlQURzdGljYQ==">estadística <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZmluYW56YXM=">finanzas <span class="quarto-category-count">(2)</span></div><div class="category" data-category="ZiVDMyVCQXRib2w=">fútbol <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aGlzdG9yaWE=">historia <span class="quarto-category-count">(6)</span></div><div class="category" data-category="aW5nZW5pZXIlQzMlQURh">ingeniería <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aW5zcGlyYWNpJUMzJUIzbg==">inspiración <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aW52ZXJzaW9uZXM=">inversiones <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SmFwJUMzJUIzbg==">Japón <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bGlicm9z">libros <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bWFyem8=">marzo <span class="quarto-category-count">(2)</span></div><div class="category" data-category="bWlzdGVyaW8=">misterio <span class="quarto-category-count">(3)</span></div><div class="category" data-category="bSVDMyVCQXNpY2E=">música <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bmF0dXJhbGV6YQ==">naturaleza <span class="quarto-category-count">(2)</span></div><div class="category" data-category="bm92aWVtYnJl">noviembre <span class="quarto-category-count">(4)</span></div><div class="category" data-category="b2N0dWJyZQ==">octubre <span class="quarto-category-count">(2)</span></div><div class="category" data-category="cHNpY29sb2clQzMlQURh">psicología <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cmVkZXM=">redes <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cmVsaWdpJUMzJUIzbg==">religión <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c2FtdXJhaXM=">samurais <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c2VwdGllbWJyZQ==">septiembre <span class="quarto-category-count">(4)</span></div><div class="category" data-category="dGVsZXZpc2klQzMlQjNu">televisión <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VVJTUw==">URSS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dmlkZW9qdWVnb3M=">videojuegos <span class="quarto-category-count">(2)</span></div><div class="category" data-category="V1dF">WWE <span class="quarto-category-count">(1)</span></div><div class="category" data-category="eW91dHViZQ==">youtube <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -424,7 +425,40 @@ window.Quarto = {
     </div>
 </div>
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="MjAyNiUyQ2hpc3RvcmlhJTJDZGVwb3J0ZXMlMkNVUlNT" data-listing-date-sort="1777518000000" data-listing-file-modified-sort="1778104598009" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="112">
+<div class="g-col-1" data-index="0" data-categories="MjAyNiUyQ2hpc3RvcmlhJTJDSmFwJUMzJUIzbiUyQ3NhbXVyYWlz" data-listing-date-sort="1778122800000" data-listing-file-modified-sort="1778679643703" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="65">
+<a href="./posts/2026/05-07-Unificando-un-pais.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Unificando un país
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('MjAyNg=='); return false;">2026</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('aGlzdG9yaWE='); return false;">historia</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('SmFwJUMzJUIzbg=='); return false;">Japón</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('c2FtdXJhaXM='); return false;">samurais</div>
+
+</div>
+<div class="card-text listing-description delink">
+Cuando la guerra era parte de la vida cotidiana, tres tipos decidieron que ya era suficiente. Cada uno a su manera, se dedicaron a poner orden en el desastre. Desde el caos…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Judith Amira Guzmán
+</div>
+<div class="listing-date">
+7 may 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="MjAyNiUyQ2hpc3RvcmlhJTJDZGVwb3J0ZXMlMkNVUlNT" data-listing-date-sort="1777518000000" data-listing-file-modified-sort="1778104598009" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="112">
 <a href="./posts/2026/04-30-La-maquina-de-oro-rojo.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img loading='lazy' src="assets\posts\front\Gimnastas_sovieticos.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -457,7 +491,7 @@ En este seminario hablaremos sobre una historia de poder sistémico y los oríge
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="MjAyNiUyQ2RlcG9ydGVzJTJDZXN0YWQlQzMlQURzdGljYQ==" data-listing-date-sort="1776913200000" data-listing-file-modified-sort="1778104598009" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="116">
+<div class="g-col-1" data-index="2" data-categories="MjAyNiUyQ2RlcG9ydGVzJTJDZXN0YWQlQzMlQURzdGljYQ==" data-listing-date-sort="1776913200000" data-listing-file-modified-sort="1778104598009" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="116">
 <a href="./posts/2026/04-23-Elijo-creer.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img loading='lazy' src="assets\posts\preview\ElijoCreer.jpeg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -488,7 +522,7 @@ Rocío Fonseca
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="MjAyNiUyQ2hpc3RvcmlhJTJDYW5pbWU=" data-listing-date-sort="1776308400000" data-listing-file-modified-sort="1778104598007" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="158">
+<div class="g-col-1" data-index="3" data-categories="MjAyNiUyQ2hpc3RvcmlhJTJDYW5pbWU=" data-listing-date-sort="1776308400000" data-listing-file-modified-sort="1778104598007" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="158">
 <a href="./posts/2026/04-16-Un-poco-de-historia.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img loading='lazy' src="assets\posts\photos\2026-04-16.jpeg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -519,7 +553,7 @@ Diego Montes
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="3" data-categories="MjAyNiUyQ20lQzMlQkFzaWNhJTJDaGlzdG9yaWElMkNjb25mbGljdG8lMjB2YXNjbw==" data-listing-date-sort="1775703600000" data-listing-file-modified-sort="1778104598005" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="69">
+<div class="g-col-1" data-index="4" data-categories="MjAyNiUyQ20lQzMlQkFzaWNhJTJDaGlzdG9yaWElMkNjb25mbGljdG8lMjB2YXNjbw==" data-listing-date-sort="1775703600000" data-listing-file-modified-sort="1778104598005" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="69">
 <a href="./posts/2026/04-09-Sarri-sarri.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img loading='lazy' src="assets\posts\front\SarriSarri.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -552,7 +586,7 @@ Matías Bettera
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="4" data-categories="MjAyNiUyQ21hcnpvJTJDbmF0dXJhbGV6YSUyQ2Jpb2xvZyVDMyVBRGE=" data-listing-date-sort="1773889200000" data-listing-file-modified-sort="1774965627986" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="65">
+<div class="g-col-1" data-index="5" data-categories="MjAyNiUyQ21hcnpvJTJDbmF0dXJhbGV6YSUyQ2Jpb2xvZyVDMyVBRGE=" data-listing-date-sort="1773889200000" data-listing-file-modified-sort="1774965627986" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="65">
 <a href="./posts/2026/03-19-Insectos.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img loading='lazy' src="assets\posts\front\Argentinat324.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -585,7 +619,7 @@ Nicolás Amado
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="5" data-categories="MjAyNiUyQ21hcnpvJTJDYW50cm9wb2xvZyVDMyVBRGElMkNyZWxpZ2klQzMlQjNu" data-listing-date-sort="1773284400000" data-listing-file-modified-sort="1774965627984" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="161">
+<div class="g-col-1" data-index="6" data-categories="MjAyNiUyQ21hcnpvJTJDYW50cm9wb2xvZyVDMyVBRGElMkNyZWxpZ2klQzMlQjNu" data-listing-date-sort="1773284400000" data-listing-file-modified-sort="1774965627984" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="161">
 <a href="./posts/2026/03-12-Veo-a-Satan.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img loading='lazy' src="assets\posts\front\Veo_a_Satan.jpeg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -621,7 +655,7 @@ Nicolás Vazquez
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="6" data-categories="MjAyNSUyQ2RpY2llbWJyZSUyQ2ZpbmFuemFzJTJDcHNpY29sb2clQzMlQURh" data-listing-date-sort="1764817200000" data-listing-file-modified-sort="1774965627984" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="96">
+<div class="g-col-1" data-index="7" data-categories="MjAyNSUyQ2RpY2llbWJyZSUyQ2ZpbmFuemFzJTJDcHNpY29sb2clQzMlQURh" data-listing-date-sort="1764817200000" data-listing-file-modified-sort="1774965627984" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="96">
 <a href="./posts/2025/12-04-Parkinson.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img loading='lazy' src="assets\posts\front\Parkinson.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -654,7 +688,7 @@ Daniel Federico Fernando Robledo Flores
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="7" data-categories="MjAyNSUyQ25vdmllbWJyZSUyQ2ZpbmFuemFzJTJDaW52ZXJzaW9uZXM=" data-listing-date-sort="1764212400000" data-listing-file-modified-sort="1774965627984" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="28">
+<div class="g-col-1" data-index="8" data-categories="MjAyNSUyQ25vdmllbWJyZSUyQ2ZpbmFuemFzJTJDaW52ZXJzaW9uZXM=" data-listing-date-sort="1764212400000" data-listing-file-modified-sort="1774965627984" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="28">
 <a href="./posts/2025/11-27-Breve-introduccion.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img loading='lazy' src="assets\posts\front\Introduccion-Mercado-Capitales.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -687,7 +721,7 @@ Luis Biedma
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="8" data-categories="MjAyNSUyQ25vdmllbWJyZSUyQ21pc3RlcmlvJTJDeW91dHViZQ==" data-listing-date-sort="1763607600000" data-listing-file-modified-sort="1774965627982" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="106">
+<div class="g-col-1" data-index="9" data-categories="MjAyNSUyQ25vdmllbWJyZSUyQ21pc3RlcmlvJTJDeW91dHViZQ==" data-listing-date-sort="1763607600000" data-listing-file-modified-sort="1774965627982" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="106">
 <a href="./posts/2025/11-20-Hablemos-de-lo-que-no-existe.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img loading='lazy' src="assets\posts\front\Hablemos-de-lo-que-no-existe.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -720,7 +754,7 @@ Agustín Taboada
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="9" data-categories="MjAyNSUyQ25vdmllbWJyZSUyQ3ZpZGVvanVlZ29z" data-listing-date-sort="1763089200000" data-listing-file-modified-sort="1774965627982" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="54">
+<div class="g-col-1" data-index="10" data-categories="MjAyNSUyQ25vdmllbWJyZSUyQ3ZpZGVvanVlZ29z" data-listing-date-sort="1763089200000" data-listing-file-modified-sort="1774965627982" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="54">
 <a href="./posts/2025/11-14-Esto-no-es-un-juego.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img loading='lazy' src="assets\posts\front\esto_no_es_un_juego.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -751,7 +785,7 @@ Rodrigo Pastrana
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="10" data-categories="MjAyNSUyQ25vdmllbWJyZSUyQ21pc3RlcmlvJTJDY2llbmNpYSUyQ2NpZW5jaWElMjBmaWNjaSVDMyVCM24lMkNsaWJyb3M=" data-listing-date-sort="1762484400000" data-listing-file-modified-sort="1774965627982" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="81">
+<div class="g-col-1" data-index="11" data-categories="MjAyNSUyQ25vdmllbWJyZSUyQ21pc3RlcmlvJTJDY2llbmNpYSUyQ2NpZW5jaWElMjBmaWNjaSVDMyVCM24lMkNsaWJyb3M=" data-listing-date-sort="1762484400000" data-listing-file-modified-sort="1774965627982" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="81">
 <a href="./posts/2025/11-07-El-bosque-oscuro.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img loading='lazy' src="assets\posts\front\bosque_oscuro.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -783,249 +817,6 @@ Gastón Briozzo
 </div>
 <div class="listing-date">
 7 nov 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="11" data-categories="MjAyNSUyQ29jdHVicmUlMkNjaWVuY2lhJTJDYXJ0ZSUyQ2hpc3RvcmlhJTJDY2luZQ==" data-listing-date-sort="1761274800000" data-listing-file-modified-sort="1774965627980" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="87">
-<a href="./posts/2025/10-24-Ciencia-y-arte.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img loading='lazy' src="assets\posts\front\ciencia_y_arte.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Ciencia y Arte
-</h5>
-<div class="card-subtitle listing-subtitle">
-La historia de la creación con gran trascendencia social y cultural
-</div>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('MjAyNQ=='); return false;">2025</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('b2N0dWJyZQ=='); return false;">octubre</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Y2llbmNpYQ=='); return false;">ciencia</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('YXJ0ZQ=='); return false;">arte</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('aGlzdG9yaWE='); return false;">historia</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Y2luZQ=='); return false;">cine</div>
-
-</div>
-<div class="card-text listing-description delink">
-En esta charla, vamos a explorar eventos históricos cruciales que moldearon una de las mejores creaciones de la humanidad. Toda gran obra tuvo sus pros y contras: desde…
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Claudio Armas
-</div>
-<div class="listing-date">
-24 oct 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="12" data-categories="MjAyNSUyQ29jdHVicmUlMkNmJUMzJUJBdGJvbCUyQ2RlcG9ydGVz" data-listing-date-sort="1760756400000" data-listing-file-modified-sort="1774965627980" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="81">
-<a href="./posts/2025/10-18-De-la-cancha-al-carnaval.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img loading='lazy' src="assets\posts\front\de-la-cancha-al-carnaval.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-De la cancha al carnaval
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('MjAyNQ=='); return false;">2025</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('b2N0dWJyZQ=='); return false;">octubre</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZiVDMyVCQXRib2w='); return false;">fútbol</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZGVwb3J0ZXM='); return false;">deportes</div>
-
-</div>
-<div class="card-text listing-description delink">
-Brasil no solo es la selección con más mundiales, sino también la cuna del jogo bonito. Pero fuera de la cancha, sus ídolos se destacan por su vida de excesos y fiestas.…
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Gonzalo Angaut
-</div>
-<div class="listing-date">
-18 oct 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="13" data-categories="MjAyNSUyQ3NlcHRpZW1icmUlMkNuYXR1cmFsZXphJTJDaW5nZW5pZXIlQzMlQURh" data-listing-date-sort="1758855600000" data-listing-file-modified-sort="1774965627977" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="84">
-<a href="./posts/2025/09-26-Imitar-la-forma.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img loading='lazy' src="assets\posts\front\Imitar_la_forma.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Imitar la forma y el proceso natural
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('MjAyNQ=='); return false;">2025</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('c2VwdGllbWJyZQ=='); return false;">septiembre</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('bmF0dXJhbGV6YQ=='); return false;">naturaleza</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('aW5nZW5pZXIlQzMlQURh'); return false;">ingeniería</div>
-
-</div>
-<div class="card-text listing-description delink">
-Me fascina cómo lo más complejo suele tener una explicación sencilla y elegante. Y la naturaleza es experta en eso. En esta charla, les muestro unos ejemplos que me vuelan…
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Martín Mendez
-</div>
-<div class="listing-date">
-26 sept 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="14" data-categories="MjAyNSUyQ3NlcHRpZW1icmUlMkNXV0UlMkNpbnNwaXJhY2klQzMlQjNu" data-listing-date-sort="1758250800000" data-listing-file-modified-sort="1774965627977" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="80">
-<a href="./posts/2025/09-19-El-fin-de-una-era.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img loading='lazy' src="assets\posts\front\Retiro_John_Cena.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-El Fin de una era
-</h5>
-<div class="card-subtitle listing-subtitle">
-John Cena y su Tour de Despedida 2025
-</div>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('MjAyNQ=='); return false;">2025</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('c2VwdGllbWJyZQ=='); return false;">septiembre</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('V1dF'); return false;">WWE</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('aW5zcGlyYWNpJUMzJUIzbg=='); return false;">inspiración</div>
-
-</div>
-<div class="card-text listing-description delink">
-En julio de 2024, John Cena anunció su retiro de la lucha libre profesional para 2025. En esta charla analizaremos el legado de una de las figuras más icónicas de WWE, quien…
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Diego Reyes
-</div>
-<div class="listing-date">
-19 sept 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="15" data-categories="MjAyNSUyQ3NlcHRpZW1icmUlMkNiJUMzJUExc3F1ZXQlMkNkZXBvcnRlcyUyQ3JlZGVz" data-listing-date-sort="1757646000000" data-listing-file-modified-sort="1774965627977" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="72">
-<a href="./posts/2025/09-12-De-Argentina-vs-el-Dream-Team.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img loading='lazy' src="assets\posts\front\basket_dreamTeam.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-De Argentina vs.&nbsp;el Dream Team y nuestros grados de separación con Michael Jordan
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('MjAyNQ=='); return false;">2025</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('c2VwdGllbWJyZQ=='); return false;">septiembre</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('YiVDMyVBMXNxdWV0'); return false;">básquet</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZGVwb3J0ZXM='); return false;">deportes</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmVkZXM='); return false;">redes</div>
-
-</div>
-<div class="card-text listing-description delink">
-En este seminario recordaremos el mítico enfrentamiento de la Selección Argentina de Básquet vs el Dream Team de Estados Unidos en el Preolímpico de 1992 y charlaremos…
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Paula Céspedes
-</div>
-<div class="listing-date">
-12 sept 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="16" data-categories="MjAyNSUyQ3NlcHRpZW1icmUlMkN2aWRlb2p1ZWdvcyUyQ2hpc3Rvcmlh" data-listing-date-sort="1757041200000" data-listing-file-modified-sort="1774965627976" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="87">
-<a href="./posts/2025/09-05-lSinVidal.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img loading='lazy' src="assets\posts\front\lsinvidal.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-La historia de un guerrero: lSinVidal
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('MjAyNQ=='); return false;">2025</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('c2VwdGllbWJyZQ=='); return false;">septiembre</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('dmlkZW9qdWVnb3M='); return false;">videojuegos</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('aGlzdG9yaWE='); return false;">historia</div>
-
-</div>
-<div class="card-text listing-description delink">
-Esta es la historia de un militar que, cansado de tanta maldad, encontró un refugio. En su camino, se enfrentó a las potencias mundiales que dominaban la época, encontrando…
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Jonathan Claros
-</div>
-<div class="listing-date">
-5 sept 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="17" data-categories="MjAyNSUyQ2Fnb3N0byUyQ3RlbGV2aXNpJUMzJUIzbiUyQ21pc3Rlcmlv" data-listing-date-sort="1756436400000" data-listing-file-modified-sort="1774965627976" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="45">
-<a href="./posts/2025/08-29-5-razones-para-ver-Twin-Peaks.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img loading='lazy' src="assets\posts\front\5razones_twinpeaks.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-5 razones para ver Twin Peaks
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('MjAyNQ=='); return false;">2025</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('YWdvc3Rv'); return false;">agosto</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('dGVsZXZpc2klQzMlQjNu'); return false;">televisión</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('bWlzdGVyaW8='); return false;">misterio</div>
-
-</div>
-<div class="card-text listing-description delink">
-Una disertación sobre porqué me obsesioné con la mítica serie de David Lynch y las razones por las que todos debemos verla por lo menos una vez en la vida.
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Nicolás Vazquez
-</div>
-<div class="listing-date">
-29 ago 2025
 </div>
 </div>
 </div>

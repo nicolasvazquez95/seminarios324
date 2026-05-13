@@ -10,6 +10,7 @@ listing:
   sort-ui: true
   filter-ui: [title, author, date, categories]
   fields: [image, author, date, title, subtitle, categories, description]
+  max-items: 12
 page-layout: full
 title-block-banner: true
 lang: es
