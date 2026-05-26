@@ -1,0 +1,21 @@
+---
+title: "El último adiós"
+# subtitle: "Una teoría antropológica y religiosa de la violencia humana"
+author: "Jonatan Claros (IFEG)"
+date: "2026-05-21"
+categories: [2026, música, historia, 11S]
+---
+
+## Resumen
+
+## Datos
+
+**Hora:** 14:00 hs
+
+**Lugar:** Sala de Física Teórica, FAMAF
+
+*Seminario #22*
+
+## El evento
+
+![](/assets/posts\photos\2026-05-21.jpeg){fig-align="center" width="1280"}
