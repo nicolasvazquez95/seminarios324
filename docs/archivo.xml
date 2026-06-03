@@ -10,7 +10,42 @@
 <atom:link href="https://nicolasvazquez95.github.io/seminarios324/archivo.xml" rel="self" type="application/rss+xml"/>
 <description>Seminarios de la 324</description>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Thu, 21 May 2026 03:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 28 May 2026 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>10 cosas en las que —- y —- se parecen demasiado (y varias en las que no)</title>
+  <dc:creator>Paula Cespedes (IFEG)</dc:creator>
+  <link>https://nicolasvazquez95.github.io/seminarios324/posts/2026/05-28-10-cosas.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="resumen" class="level2">
+<h2 class="anchored" data-anchor-id="resumen">Resumen</h2>
+</section>
+<section id="datos" class="level2">
+<h2 class="anchored" data-anchor-id="datos">Datos</h2>
+<p><strong>Hora:</strong> 14:00 hs</p>
+<p><strong>Lugar:</strong> Sala de Física Teórica, FAMAF</p>
+<p><em>Seminario #23</em></p>
+</section>
+<section id="el-evento" class="level2">
+<h2 class="anchored" data-anchor-id="el-evento">El evento</h2>
+<!-- ![](/assets/posts\photos\2026-05-21.jpeg){fig-align="center" width="1280"} -->
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a> ]]></description>
+  <category>2026</category>
+  <category>series</category>
+  <category>anime</category>
+  <category>cultura</category>
+  <guid>https://nicolasvazquez95.github.io/seminarios324/posts/2026/05-28-10-cosas.html</guid>
+  <pubDate>Thu, 28 May 2026 03:00:00 GMT</pubDate>
+</item>
 <item>
   <title>El último adiós</title>
   <dc:creator>Jonatan Claros (IFEG)</dc:creator>
@@ -861,48 +896,6 @@
   <category>redes</category>
   <guid>https://nicolasvazquez95.github.io/seminarios324/posts/2025/09-12-De-Argentina-vs-el-Dream-Team.html</guid>
   <pubDate>Fri, 12 Sep 2025 03:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>La historia de un guerrero: lSinVidal</title>
-  <dc:creator>Jonathan Claros</dc:creator>
-  <link>https://nicolasvazquez95.github.io/seminarios324/posts/2025/09-05-lSinVidal.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://nicolasvazquez95.github.io/seminarios324/assets/posts/front/lsinvidal.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" width="800"></p>
-</figure>
-</div>
-<section id="resumen" class="level2">
-<h2 class="anchored" data-anchor-id="resumen">Resumen</h2>
-<p>Esta es la historia de un militar que, cansado de tanta maldad, encontró un refugio. En su camino, se enfrentó a las potencias mundiales que dominaban la época, encontrando aliados en un grupo que compartía sus ideales. Así, pudo transmitir su sabiduría y eventualmente, asumir el liderazgo. Tras tres años intensos y decisivos, comprendió que su ciclo en esta vida difícil había llegado a su fin. Esta es la biografía de lSinVidal (2011-2014).</p>
-<p>👉Link a la presentación <a href="../../assets/posts/slides/lsinvidal.pdf">aquí</a></p>
-</section>
-<section id="datos" class="level2">
-<h2 class="anchored" data-anchor-id="datos">Datos</h2>
-<p><strong>Hora:</strong> 14:00 hrs</p>
-<p><strong>Lugar:</strong> Oficina 324, FAMAF</p>
-<p><em>Seminario #2</em></p>
-</section>
-<section id="el-evento" class="level2">
-<h2 class="anchored" data-anchor-id="el-evento">El evento</h2>
-<p><img src="https://nicolasvazquez95.github.io/seminarios324/assets/posts/photos/2025-09-05.png" class="img-fluid"></p>
-
-
-</section>
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a> ]]></description>
-  <category>2025</category>
-  <category>septiembre</category>
-  <category>videojuegos</category>
-  <category>historia</category>
-  <guid>https://nicolasvazquez95.github.io/seminarios324/posts/2025/09-05-lSinVidal.html</guid>
-  <pubDate>Fri, 05 Sep 2025 03:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
