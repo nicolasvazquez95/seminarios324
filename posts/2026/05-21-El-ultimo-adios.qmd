@@ -3,10 +3,11 @@ title: "El último adiós"
 # subtitle: "Una teoría antropológica y religiosa de la violencia humana"
 author: "Jonatan Claros (IFEG)"
 date: "2026-05-21"
-categories: [2026, música, historia, 11S]
+categories: [2026, música, historia, 11S, tragedias]
 ---
 
 ## Resumen
+El evento catastrofico de las torres gemelas el 09/11/01 dio paso a un sin numero de registros populares y cambios en el paradigma de la seguridad nacional estadounidense. En esta charla se hablara de una canción tributo a las víctimas de ese evento y cómo puede llegar a movilizar a tantos artistas latinos algo de esta magnitud.
 
 ## Datos
 

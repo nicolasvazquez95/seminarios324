@@ -1,13 +1,14 @@
 ---
-title: "10 cosas en las que ---- y ---- se parecen demasiado (y varias en las que no)"
+title: "10 cosas en las que Doctor Who y Jojo se parecen demasiado (y varias en las que no)"
 # subtitle: "Una teoría antropológica y religiosa de la violencia humana"
 author: "Paula Cespedes (IFEG)"
 date: "2026-05-28"
 categories: [2026, series, anime, cultura]
 ---
+![](/assets/posts/front/Jojo_DoctorWho.jpg){fig-align="center" width="853"}
 
 ## Resumen
-
+En este seminario voy a hablar de numerosas coincidencias entre dos famosas series de culto que, a primera vista, parecen ser completamente diferentes.
 ## Datos
 
 **Hora:** 14:00 hs
