@@ -42,9 +42,9 @@ Aquí vas a encontrar la información sobre el próximo seminario y un archivo d
 ::: {#posts-short}
 :::
 
-**Ver archivo de seminarios completo en el [Archivo](archivo.qmd).**
+**Ver registro completo en el [Archivo](archivo.qmd).**
 
-*¿Buscas inspiración? ¿Tenés una excelente idea para un seminario que querés compartir? Visitá el [Ideario](acuario.qmd) y dejá tu idea, o pescá alguna que te guste!*
+*¿Buscas inspiración? ¿Tenés una excelente idea para un seminario que querés compartir? Visitá el [Ideario](ideario.qmd) y dejá tu idea, o pescá alguna que te guste!*
 
 <!-- [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_3.svg)](https://cafecito.app/seminarios324) -->
 
