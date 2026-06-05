@@ -10,49 +10,7 @@
 <atom:link href="https://nicolasvazquez95.github.io/seminarios324/index.xml" rel="self" type="application/rss+xml"/>
 <description>Seminarios de la 324</description>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Thu, 28 May 2026 03:00:00 GMT</lastBuildDate>
-<item>
-  <title>10 cosas en las que Doctor Who y Jojo se parecen demasiado (y varias en las que no)</title>
-  <dc:creator>Paula Cespedes (IFEG)</dc:creator>
-  <link>https://nicolasvazquez95.github.io/seminarios324/posts/2026/05-28-10-cosas.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://nicolasvazquez95.github.io/seminarios324/assets/posts/front/Jojo_DoctorWho.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" width="853"></p>
-</figure>
-</div>
-<section id="resumen" class="level2">
-<h2 class="anchored" data-anchor-id="resumen">Resumen</h2>
-<p>En este seminario voy a hablar de numerosas coincidencias entre dos famosas series de culto que, a primera vista, parecen ser completamente diferentes.</p>
-<p>👉Link a la presentación <a href="../../assets/posts/slides/Jojo_DoctorWho.pdf">aquí</a></p>
-</section>
-<section id="datos" class="level2">
-<h2 class="anchored" data-anchor-id="datos">Datos</h2>
-<p><strong>Hora:</strong> 14:00 hs</p>
-<p><strong>Lugar:</strong> Sala de Física Teórica, FAMAF</p>
-<p><em>Seminario #23</em></p>
-</section>
-<section id="el-evento" class="level2">
-<h2 class="anchored" data-anchor-id="el-evento">El evento</h2>
-<!-- ![](/assets/posts\photos\2026-05-21.jpeg){fig-align="center" width="1280"} -->
-
-
-</section>
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a> ]]></description>
-  <category>2026</category>
-  <category>series</category>
-  <category>anime</category>
-  <category>cultura</category>
-  <guid>https://nicolasvazquez95.github.io/seminarios324/posts/2026/05-28-10-cosas.html</guid>
-  <pubDate>Thu, 28 May 2026 03:00:00 GMT</pubDate>
-</item>
+<lastBuildDate>Thu, 04 Jun 2026 03:00:00 GMT</lastBuildDate>
 <item>
   <title>El león, el mago y la yihad</title>
   <dc:creator>Nicolás Vazquez, Gastón Briozzo</dc:creator>
@@ -95,6 +53,48 @@
   <category>religión</category>
   <category>tecnología</category>
   <guid>https://nicolasvazquez95.github.io/seminarios324/posts/2026/06-04-Leon-mago-yihad.html</guid>
+  <pubDate>Thu, 04 Jun 2026 03:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>10 cosas en las que Doctor Who y Jojo se parecen demasiado (y varias en las que no)</title>
+  <dc:creator>Paula Cespedes (IFEG)</dc:creator>
+  <link>https://nicolasvazquez95.github.io/seminarios324/posts/2026/05-28-10-cosas.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://nicolasvazquez95.github.io/seminarios324/assets/posts/front/Jojo_DoctorWho.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" width="853"></p>
+</figure>
+</div>
+<section id="resumen" class="level2">
+<h2 class="anchored" data-anchor-id="resumen">Resumen</h2>
+<p>En este seminario voy a hablar de numerosas coincidencias entre dos famosas series de culto que, a primera vista, parecen ser completamente diferentes.</p>
+<p>👉Link a la presentación <a href="../../assets/posts/slides/Jojo_DoctorWho.pdf">aquí</a></p>
+</section>
+<section id="datos" class="level2">
+<h2 class="anchored" data-anchor-id="datos">Datos</h2>
+<p><strong>Hora:</strong> 14:00 hs</p>
+<p><strong>Lugar:</strong> Sala de Física Teórica, FAMAF</p>
+<p><em>Seminario #23</em></p>
+</section>
+<section id="el-evento" class="level2">
+<h2 class="anchored" data-anchor-id="el-evento">El evento</h2>
+<!-- ![](/assets/posts\photos\2026-05-21.jpeg){fig-align="center" width="1280"} -->
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a> ]]></description>
+  <category>2026</category>
+  <category>series</category>
+  <category>anime</category>
+  <category>cultura</category>
+  <guid>https://nicolasvazquez95.github.io/seminarios324/posts/2026/05-28-10-cosas.html</guid>
   <pubDate>Thu, 28 May 2026 03:00:00 GMT</pubDate>
 </item>
 <item>

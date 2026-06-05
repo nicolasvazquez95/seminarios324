@@ -2,7 +2,7 @@
 title: "El león, el mago y la yihad"
 # subtitle: "Una teoría antropológica y religiosa de la violencia humana"
 author: "Nicolás Vazquez, Gastón Briozzo"
-date: "2026-05-28"
+date: "2026-06-04"
 categories: [2026, fantasía, literatura, IA, religión, tecnología]
 ---
 ![](/assets/posts/front/Leon_mago_yihad.png){fig-align="center" width="853"}
