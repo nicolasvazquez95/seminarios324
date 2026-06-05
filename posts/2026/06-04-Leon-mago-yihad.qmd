@@ -1,0 +1,27 @@
+---
+title: "El león, el mago y la yihad"
+# subtitle: "Una teoría antropológica y religiosa de la violencia humana"
+author: "Nicolás Vazquez, Gastón Briozzo"
+date: "2026-05-28"
+categories: [2026, fantasía, literatura, IA, religión, tecnología]
+---
+![](/assets/posts/front/Leon_mago_yihad.png){fig-align="center" width="853"}
+
+
+## Resumen
+Este seminario es una invitación a reflexionar sobre nuestro presente a través de dos grandes obras de la literatura fantástica y de la ciencia ficción: El universo de J.R.R Tolkien y la saga de Dune de Frank Herbert. En ambos universos, está muy presente el concepto de moralidad y ética frente al uso de las tecnologías. A partir de ahí, vamos a acercarnos al debate actual centrado en la inteligencia artificial, encabezado por los grandes CEOs de las empresas tecnológicas, frente a nada menos que el Papa León XIV. Sorprendentemente (o no), la interpretación del mundo está siendo disputada en el ámbito religioso y mesiánico.
+
+
+[Link a la presentación en Google Slides](https://docs.google.com/presentation/d/1ySTSMW0Vv9sBzKsC3Xkre7nGzYw2nzJl5IzwC0jM7Vo/edit?usp=sharing)
+
+## Datos
+
+**Hora:** 14:00 hs
+
+**Lugar:** Sala de Física Teórica, FAMAF
+
+*Seminario #24*
+
+## El evento
+
+<!-- ![](/assets/posts\photos\2026-05-21.jpeg){fig-align="center" width="1280"} -->
